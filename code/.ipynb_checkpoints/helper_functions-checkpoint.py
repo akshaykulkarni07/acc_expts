@@ -46,9 +46,9 @@ def return_segments_3axis(path_to_df, one_hot_encoded = False):
     
     # convert labels to one hot encoded form if needed
     if one_hot_encoded : 
-        y_ = np.argmax(y, axis = 1)
-    else : 
         y_ = y
+    else : 
+        y_ = np.argmax(y, axis = 1)
     
     return x, y_
 
@@ -92,9 +92,9 @@ def return_segments_1axis(path_to_df, axis, one_hot_encoded = False):
     y[num - 1] = df.iloc[((num - 1) * 150) + 75, 3 : ].values
     
     if one_hot_encoded : 
-        y_ = np.argmax(y, axis = 1)
-    else : 
         y_ = y
+    else : 
+        y_ = np.argmax(y, axis = 1)
 
     return x, y_
 
