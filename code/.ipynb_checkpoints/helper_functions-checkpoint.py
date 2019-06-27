@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from scipy import signal
 
 #-------------------------------------------------------------
 # Data Loading Helper Functions
@@ -100,3 +101,62 @@ def return_segments_1axis(path_to_df, axis, one_hot_encoded = False):
 #-------------------------------------------------------------
 #-------------------------------------------------------------
 #-------------------------------------------------------------
+
+#-------------------------------------------------------------
+# Preprocessing Functions
+#-------------------------------------------------------------
+
+# Source : https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform
+# Below 2 functions are needed for low pass filtering single row (or column) data
+def butter_lowpass(cutoff, nyq_freq, order = 4) :
+    normal_cutoff = float(cutoff) / nyq_freq
+    b, a = signal.butter(order, normal_cutoff, btype = 'lowpass')
+    return b, a
+
+def butter_lowpass_filter(data, cutoff_freq, nyq_freq, order = 4) :
+    b, a = butter_lowpass(cutoff_freq, nyq_freq, order = order)
+    y = signal.filtfilt(b, a, data)
+    return y
+
+def low_pass_filter(x, axes, cutoff_freq = 5.0, nyq_freq = 50 // 2, order = 4) : 
+    ''' Returns 4th order Butterworth low pass filtered output of each example
+    Assumes x is the first output of return_segments_1axis or return_segments_3axis function
+    Use parameter axes = 3 for 3 axes data and axes = 1 for 1 axis data
+    '''
+    # initializing output NumPy array
+    y = np.zeros_like(x)
+    # Checking if axes is 1 and whether that is reflected in the data
+    if axes == 1 and x.shape[1] == 150 :
+        i = 0
+        for x_acc in x : 
+            y[i] = butter_lowpass_filter(x_acc, cutoff_freq = cutoff_freq, nyq_freq = nyq_freq, order = order)
+            i = i + 1
+        return y
+    # Checking if axes is 3 and whether that is reflected in the data
+    elif axes == 3 and x.shape[1] == 450 :
+        i = 0
+        for x_acc in x : 
+            y[i, : 150] = butter_lowpass_filter(x_acc[ : 150], cutoff_freq = cutoff_freq, nyq_freq = nyq_freq, order = order)
+            y[i, 150 : 300] = butter_lowpass_filter(x_acc[150 : 300], cutoff_freq = cutoff_freq, nyq_freq = nyq_freq, order = order)
+            y[i, 300 : ] = butter_lowpass_filter(x_acc[300 : ], cutoff_freq = cutoff_freq, nyq_freq = nyq_freq, order = order)
+            i = i + 1
+        return y
+    # otherwise, there is some issue, so exit the function
+    else : 
+        print('Use axes = 1 or 3 only and correctly') 
+        return y
+    
+    return
+
+#-------------------------------------------------------------
+#-------------------------------------------------------------
+#-------------------------------------------------------------
+    
+# Testing code
+# x_train, y_train = return_segments_1axis('../data/test.csv', axis = 2)
+# y = low_pass_filter(x_train, axes = 1)
+
+# fig, ax = plt.subplots()
+# ax.plot(x_train[90], 'r')
+# ax.plot(y[90], 'b', linewidth = 3)
+# plt.show()
