@@ -2,6 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import signal
+import scipy.fftpack
+import scipy.stats
+import scipy.signal
 
 #-------------------------------------------------------------
 # Data Loading Helper Functions
@@ -148,6 +151,269 @@ def low_pass_filter(x, axes, cutoff_freq = 5.0, nyq_freq = 50 // 2, order = 4) :
     
     return
 
+#-------------------------------------------------------------
+#-------------------------------------------------------------
+#-------------------------------------------------------------
+    
+#-------------------------------------------------------------
+# Feature Extraction Functions
+#-------------------------------------------------------------
+def mean(x, axes) : 
+    ''' Returns the mean of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the ouput NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = np.mean(x_)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the ouput NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = np.mean(x_[ : 150])
+            y[i, 1] = np.mean(x_[150 : 300])
+            y[i, 2] = np.mean(x_[300 : ])
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def std_dev(x, axes) :
+    ''' Returns the standard deviation of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = np.std(x_)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = np.std(x_[ : 150])
+            y[i, 1] = np.std(x_[150 : 300])
+            y[i, 2] = np.std(x_[300 : ])
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def variance(x, axes) :
+    ''' Returns the variance of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = np.var(x_)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = np.var(x_[ : 150])
+            y[i, 1] = np.var(x_[150 : 300])
+            y[i, 2] = np.var(x_[300 : ])
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def energy(x, axes) :
+    ''' Returns the absolute energy of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = np.sum(x_ ** 2)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = np.sum(x_[ : 150] ** 2)
+            y[i, 1] = np.sum(x_[150 : 300] ** 2)
+            y[i, 2] = np.sum(x_[300 : ] ** 2)
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def rms(x, axes) : 
+    ''' Returns the root mean square value of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = np.sqrt(np.mean(x_ ** 2))
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = np.sqrt(np.mean(x_[ : 150] ** 2))
+            y[i, 1] = np.sqrt(np.mean(x_[150 : 300] ** 2))
+            y[i, 2] = np.sqrt(np.mean(x_[300 : ] ** 2))
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def skewness(x, axes) : 
+    ''' Returns the skewness of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = scipy.stats.skew(x_)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = scipy.stats.skew(x_[ : 150])
+            y[i, 1] = scipy.stats.skew(x_[150 : 300])
+            y[i, 2] = scipy.stats.skew(x_[300 : ])
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def kurtosis(x, axes) : 
+    ''' Returns the kurtosis of each row in x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            y[i] = scipy.stats.kurtosis(x_)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            y[i, 0] = scipy.stats.kurtosis(x_[ : 150])
+            y[i, 1] = scipy.stats.kurtosis(x_[150 : 300])
+            y[i, 2] = scipy.stats.kurtosis(x_[300 : ])
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
+def num_peaks(x, axes) : 
+    ''' Returns the number of peaks in each row in low pass filtered output of x
+    Give axes = 1 if single axis data is input
+    Give axes = 3 if 3 axis data is input
+    Otherwise output will be None type
+    '''
+    # checking if single axis data is provided as input
+    if axes == 1 and x.shape[1] == 150 : 
+        # low pass filtering the input
+        x = low_pass_filter(x, axes = axes)
+        # initializing the output NumPy array
+        y = np.zeros(x.shape[0])
+        i = 0
+        for x_ in x : 
+            peaks, _ = scipy.signal.find_peaks(x_)
+            y[i] = len(peaks)
+            i = i + 1
+        return y
+    # checking if 3 axis data is provided as input
+    elif axes == 3 and x.shape[1] == 450 : 
+        # low pass filtering the input
+        x = low_pass_filter(x, axes = axes)
+        # initializing the output NumPy array
+        y = np.zeros((x.shape[0], axes))
+        i = 0
+        for x_ in x : 
+            peaks, _ = scipy.signal.find_peaks(x_[ : 150])
+            y[i, 0] = len(peaks)
+            peaks, _ = scipy.signal.find_peaks(x_[150 : 300])
+            y[i, 1] = len(peaks)
+            peaks, _ = scipy.signal.find_peaks(x_[300 : ])
+            y[i, 2] = len(peaks)
+            i = i + 1
+        return y
+    # in any other case, there is an issue with the data
+    else : 
+        print('Check data and try again')
+        return None
+    
 #-------------------------------------------------------------
 #-------------------------------------------------------------
 #-------------------------------------------------------------
