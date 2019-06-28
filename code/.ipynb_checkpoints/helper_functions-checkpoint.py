@@ -414,6 +414,21 @@ def num_peaks(x, axes) :
         print('Check data and try again')
         return None
     
+def return_features(x, axes) : 
+    ''' Returns all features (whose functions are defined here)
+    axes = 1 or 3 (depending on which data is being passed)
+    '''
+    x_mean = mean(x, axes)
+    x_std = std_dev(x, axes)
+    x_var = variance(x, axes)
+    x_energy = energy(x, axes)
+    x_rms = rms(x, axes)
+    x_skew = skewness(x, axes)
+    x_kurtosis = kurtosis(x, axes)
+    x_num_peaks = num_peaks(x, axes)
+    # return concatenated feature array
+    return np.concatenate((x_mean, x_std, x_var, x_energy, x_rms, x_skew, x_kurtosis, x_num_peaks), axis = 1)
+
 #-------------------------------------------------------------
 #-------------------------------------------------------------
 #-------------------------------------------------------------
