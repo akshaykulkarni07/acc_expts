@@ -2,7 +2,8 @@ FROM airlab404/dl:cuda10_pytorch_py36
 
 MAINTAINER Marco Cannici "marco.cannici@polimi.it"
 
- 
+# Use this for starting Jupyter Notebook using docker
+# run-docker 3 0-5 jupyter notebook --ip=0.0.0.0 --no-browser 
 
 # Install extras
 
