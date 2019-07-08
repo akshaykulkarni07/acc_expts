@@ -5,7 +5,7 @@ import numpy as np
 # constant length of each example
 reqd_len = 150
 
-path = '../data/acc_only.csv'
+path = '../data/alternate_data.csv'
 
 with open(path) as f :
     reader = csv.reader(f)
