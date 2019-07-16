@@ -15,8 +15,18 @@ entering in the code. TODO : LOW-PRIORITY
 import os
 import numpy as np
 import csv
+import sys
 
-path = '/home/akshay/Desktop/acc-experiments/data/annotated_csv/_2016-11-26-16-35-21_exp1d_Player.csv'
+path = '/home/akshay/Desktop/acc-experiments/data/annotated_csv/_2016-11-26-16-49-44_exp1d_Player.csv'
+out_path = '/home/akshay/Projects/acc_expts/data/new_annotated_data/_2016-11-26-16-49-44_exp1d_Player.csv'
+
+existence = os.path.isfile(out_path)
+
+# Exit the program if the output file already exists, since then
+# risk appending to any already annotated file
+if existence :
+    print('Output file already exists. Please delete the file before running again')
+    sys.exit()
 
 with open(path) as f :
     reader = csv.reader(f)
@@ -55,7 +65,7 @@ with open(path) as f :
         # else :
 
     # saving the readings to csv
-    with open('/home/akshay/Projects/acc_expts/data/new_annotated_data/_2016-11-26-16-35-21_exp1d_Player.csv', 'a') as wf :
+    with open(out_path, 'a') as wf :
         wrf = csv.writer(wf)
         for reading in readings :
             wrf.writerow(reading)
