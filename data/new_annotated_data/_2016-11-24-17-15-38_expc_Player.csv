@@ -1,0 +1,1062 @@
+time,Control,High_level,Expectation,Activity,robogame/imu_state.linear_acc.x,robogame/imu_state.linear_acc.y,robogame/imu_state.linear_acc.z,robogame/imu_state.gyro.z,robogame/imu_state.gyro.x,robogame/imu_state.gyro.y,/kinect_features/.ci,/kinect_features/.distance,/kinect_features/.proximity
+0,Medium,Transient,High,Low,-3312,6931,7096,34,-29,-1,0.2610028982,1.0462476015,0.7675005198
+0,Medium,Transient,High,Low,-3312,6931,7096,34,-29,-1,0.2610028982,1.0462476015,0.7675005198
+0.0451550484,Medium,Transient,High,Low,-2391,3556,3533,36,-12,6,,,
+0.0669169426,Medium,Transient,High,Low,,,,,,,0.2938104272,1.0947270393,0.7567273378
+0.0902063847,Medium,Transient,High,Low,-596,3352,1677,26,30,-7,,,
+0.1350986958,Medium,Transient,High,Low,-269,2488,1748,33,6,0,,,
+0.1378555298,Medium,Transient,High,Low,,,,,,,0.4795430303,1.1738872528,0.7391361594
+0.1847259998,Medium,Transient,High,Low,613,3018,-579,11,19,7,,,
+0.1998383999,Medium,Transient,High,Low,,,,,,,0.5628196001,1.2286920547,0.7269573212
+0.225260973,Medium,Transient,High,Low,20,3405,-1457,11,9,-1,,,
+0.2706563473,Medium,Transient,High,Low,-345,3507,-1025,12,13,8,,,
+0.2731704712,Medium,Transient,High,Low,,,,,,,0.3999224603,1.232298851,0.7261558175
+0.3158993721,Medium,Transient,High,Low,-204,2853,-185,3,19,14,,,
+0.3341474533,Medium,Transient,High,Low,,,,,,,0.3824605346,1.2023721933,0.7328062057
+0.3604619503,Medium,Transient,High,Low,504,2562,-143,-5,13,14,,,
+0.4040665627,Medium,Transient,High,Low,,,,,,,0.3374094665,1.1459720135,0.7453395128
+0.4065258503,Medium,Transient,High,Low,-3,2668,-267,-3,18,15,,,
+0.4507915974,Medium,Transient,High,Low,-43,2815,1086,1,19,-5,,,
+0.471496582,Medium,Transient,High,Low,,,,,,,0.2035507262,1.0590469837,0.7646562457
+0.4955248833,Medium,Transient,High,Low,-423,2706,2967,4,1,-9,,,
+0.5322225094,Medium,Transient,High,Low,,,,,,,0.3905852437,1.1211923361,0.7508461475
+0.5533115864,Medium,Transient,High,Low,-509,2733,1875,4,-9,-15,,,
+0.6023104191,Medium,Transient,High,Low,-1038,1824,-131,9,-1,-14,,,
+0.6099758148,Medium,Transient,High,Low,,,,,,,0.2929009199,0.9924918413,0.7794462442
+0.6439568996,Medium,Transient,High,Low,-1053,1161,347,16,7,-6,,,
+0.6891813278,Medium,Transient,High,Low,-76,-787,1859,23,-6,-34,,,
+0.6980185509,Medium,Transient,High,Low,,,,,,,0.2798315287,0.9492805004,0.7890487909
+0.733038187,Medium,Transient,High,Low,361,-2322,1020,20,-16,-20,,,
+0.770316124,Medium,Transient,High,Low,,,,,,,0.3658584654,0.971629262,0.7840824127
+0.7789895535,Medium,Transient,High,Low,431,-1818,374,4,4,5,,,
+0.8238763809,Medium,Transient,High,Low,276,-434,1720,-7,-13,4,,,
+0.8336720467,Medium,Transient,High,Low,,,,,,,0.3592111468,0.9752681255,0.7832737565
+0.8683114052,Medium,Transient,High,Low,254,-396,1607,-2,-21,4,,,
+0.9061543941,Medium,Transient,High,Low,,,,,,,0.3474067748,0.9799338579,0.7822369337
+0.9176299572,Medium,Transient,High,Low,895,-577,297,-13,-22,24,,,
+0.9584248066,Medium,Transient,High,Low,882,-366,-999,-15,-15,18,,,
+0.9721899033,Medium,Transient,High,Low,,,,,,,0.3614820838,0.9694401026,0.7845688462
+1.0036842823,Medium,Transient,High,Low,188,-69,-742,-11,-8,11,,,
+1.0423219204,Medium,Inactive,High,Low,,,,,,,0.3568331897,0.9842615128,0.7812752128
+1.04864645,Medium,Inactive,High,Low,-363,-48,260,-6,-16,19,,,
+1.0941450596,Medium,Inactive,High,Low,-298,138,686,0,-9,23,,,
+1.1067621708,Medium,Inactive,High,Low,,,,,,,0.3643934727,1.01717031,0.7739621401
+1.1469800472,Medium,Inactive,High,Low,-142,102,727,-3,-13,22,,,
+1.1738352776,Medium,Inactive,High,Low,,,,,,,0.3657103777,1.0562027693,0.7652882934
+1.1844954491,Medium,Inactive,High,Low,-5,-12,502,-3,-9,22,,,
+1.2288756371,Medium,Inactive,High,Low,-185,377,667,0,-2,8,,,
+1.2425041199,Medium,Inactive,High,Low,,,,,,,0.3662205637,1.0989898443,0.7557800412
+1.2746822834,Medium,Inactive,High,Low,-153,603,864,1,5,3,,,
+1.3013899326,Medium,Inactive,High,Low,,,,,,,0.3953183293,1.1352729797,0.7477171421
+1.319216013,Medium,Inactive,High,Low,377,710,1204,-2,2,11,,,
+1.3644042015,Medium,Inactive,High,Low,968,758,1116,-6,5,-5,,,
+1.3694109917,Medium,Inactive,High,Low,,,,,,,0.3918672204,1.1565483809,0.7429892421
+1.4091618061,Medium,Inactive,High,Low,562,917,940,-4,12,-10,,,
+1.4358034134,Medium,Inactive,High,Low,,,,,,,0.3861418366,1.1560013294,0.7431107759
+1.4547724724,Medium,Inactive,High,Low,280,997,693,-4,23,-12,,,
+1.4991989136,Medium,Inactive,High,Low,,,,,,,0.4004050791,1.1718581915,0.7395870686
+1.5031440258,Medium,Inactive,High,Low,1054,1182,1335,-13,18,-18,,,
+1.5446388721,Medium,Inactive,High,Low,1297,1150,1559,-19,6,-28,,,
+1.5704610348,Medium,Inactive,High,Low,,,,,,,0.4093199372,1.1667817831,0.7407151461
+1.5893080235,Medium,Inactive,High,Low,640,1203,1268,-14,15,-26,,,
+1.634209156,Medium,Inactive,High,Low,,,,,,,0.4065787196,1.1627569199,0.7416095734
+1.6345226765,Medium,Inactive,High,Low,-547,1446,1026,-10,14,-13,,,
+1.6833729744,Medium,Inactive,High,Low,-1615,1484,1220,-3,13,7,,,
+1.7042639256,Medium,Inactive,High,Low,,,,,,,0.4205677509,1.1724784374,0.7394492626
+1.7244801521,Medium,Inactive,High,Low,-1227,1865,1599,7,25,0,,,
+1.7663547993,Medium,Inactive,High,Low,,,,,,,0.4441643357,1.1663991213,0.7408002019
+1.7696845531,Medium,Inactive,High,Low,588,2860,402,12,35,-16,,,
+1.8186168671,Medium,Inactive,High,Low,1121,2995,-62,2,9,4,,,
+1.8383967876,Medium,Inactive,High,Low,,,,,,,0.4602156281,1.1336534023,0.748077035
+1.8636143208,Medium,Inactive,High,Low,435,1580,531,7,3,7,,,
+1.8972218037,Medium,Inactive,High,Low,,,,,,,0.4405561686,1.0968060493,0.7562653422
+1.9048047066,Medium,Inactive,High,Low,681,930,486,4,-29,-17,,,
+1.9505319595,Medium,Inactive,High,Low,-2283,386,-483,-2,-27,37,,,
+1.9672355652,Medium,Inactive,High,Low,,,,,,,0.4259783924,1.0741457939,0.7613009214
+1.9987871647,Medium,Inactive,High,Low,-1917,-367,1154,16,14,26,,,
+2.0384848118,Medium,Inactive,High,Low,,,,,,,0.3974577188,1.0618664026,0.7640296817
+2.0400285721,Medium,Inactive,High,Low,-16,-1241,3786,14,-26,-4,,,
+2.0848557949,Medium,Inactive,High,Low,373,-1584,1925,-6,-7,11,,,
+2.1092700958,Medium,Inactive,High,Low,,,,,,,0.3647432923,1.0538400412,0.7658133507
+2.1471788883,Medium,Inactive,High,Low,-5,-657,1358,-5,0,1,,,
+2.1739156246,Medium,Inactive,High,Low,,,,,,,0.3683328629,1.0588562489,0.7646986246
+2.1913905144,Medium,Inactive,High,Low,0,194,383,1,2,-8,,,
+2.2335484028,Medium,Inactive,High,Low,,,,,,,0.3262650669,1.0501098633,0.7666422725
+2.2363889217,Medium,Inactive,High,Low,166,510,57,-7,3,1,,,
+2.2815945148,Medium,Inactive,High,Low,-380,957,9,-10,0,21,,,
+2.3011062145,Medium,Inactive,High,Low,,,,,,,0.3648109138,1.1274913549,0.7494463921
+2.3268203735,Medium,Inactive,High,Low,-1082,1570,350,-7,8,37,,,
+2.3722629547,Medium,Inactive,High,Low,-736,1596,926,-4,0,27,,,
+2.3726139069,Medium,Inactive,High,Low,,,,,,,0.360958308,1.1901119947,0.7355306745
+2.4166486263,Medium,Inactive,High,Low,-844,942,507,-4,6,25,,,
+2.4371995926,Medium,Inactive,High,Low,,,,,,,0.3985827863,1.2412706614,0.7241621017
+2.4656968117,Medium,Inactive,High,Low,-1190,1548,796,-5,11,26,,,
+2.491161108,Medium,Inactive,High,Low,,,,,,,0.3718553185,1.2763768435,0.7163606882
+2.5079214573,Medium,Inactive,High,Low,-1007,1622,685,-3,3,14,,,
+2.5523109436,Medium,Inactive,High,Low,-805,1547,488,-3,7,19,,,
+2.5593082905,Medium,Inactive,High,Low,,,,,,,0.3438744247,1.2864793539,0.7141157389
+2.5967833996,Medium,Inactive,High,Low,-1090,1794,842,-8,-3,24,,,
+2.6362073421,Medium,Inactive,High,Low,,,,,,,0.3414752185,1.3024061918,0.7105764151
+2.6421527863,Medium,Inactive,High,Low,-1119,1904,801,-9,-5,24,,,
+2.6871743202,Medium,Inactive,High,Low,-974,1546,931,-9,-11,19,,,
+2.6990821362,Medium,Inactive,High,Low,,,,,,,0.3260019422,1.2957818508,0.712048471
+2.7449266911,Medium,Inactive,High,Low,-1175,1324,541,-6,-6,16,,,
+2.7719426155,Medium,Inactive,High,Low,,,,,,,0.3208529651,1.2978290319,0.7115935087
+2.793792963,Medium,Inactive,High,Low,-1210,1347,595,-3,12,16,,,
+2.8326463699,Medium,Inactive,High,Low,,,,,,,0.3269669712,1.2992494106,0.7112779021
+2.8343803883,Medium,Inactive,High,Low,-1020,1372,1082,-2,3,16,,,
+2.8796446323,Medium,Inactive,High,Low,-851,1247,858,-1,2,8,,,
+2.8983111382,Medium,Inactive,High,Low,,,,,,,0.3192486763,1.2881199121,0.7137511373
+2.9245004654,Medium,Inactive,High,Low,-752,1154,905,-3,2,1,,,
+2.9663999081,Medium,Inactive,High,Low,,,,,,,0.3438232243,1.2757120132,0.7165084481
+2.9694907665,Medium,Inactive,High,Low,-555,1128,996,-5,-1,4,,,
+3.0147063732,Medium,Inactive,High,Very low,-750,1279,1046,-5,1,3,,,
+3.0325889587,Medium,Inactive,High,Very low,,,,,,,0.3283403814,1.290858984,0.7131424546
+3.0600435734,Medium,Inactive,High,Very low,-833,1245,1515,-4,-2,1,,,
+3.0989530087,Medium,Inactive,High,Very low,,,,,,,0.3138824403,1.3087444305,0.7091678977
+3.1048796177,Medium,Inactive,High,Very low,-902,1215,1440,-3,-6,6,,,
+3.1501636505,Medium,Inactive,High,Very low,-701,1382,1206,-2,2,7,,,
+3.1635322571,Medium,Inactive,High,Very low,,,,,,,0.3449840248,1.2826657295,0.7149631977
+3.1947364807,Medium,Inactive,High,Very low,-744,1344,1078,-1,-1,8,,,
+3.2303009033,Medium,Inactive,High,Very low,,,,,,,0.3143598139,1.2116869688,0.7307362556
+3.2409265041,Medium,Inactive,High,Very low,-842,1210,1000,-1,-3,11,,,
+3.2838115692,Medium,Inactive,High,Very low,,,,,,,0,0,0
+3.2857296467,Medium,Inactive,High,Very low,-692,1004,1073,-2,-2,10,,,
+3.3299362659,Medium,Inactive,High,Very low,,,,,,,0,0,0
+3.3341162205,Medium,Inactive,High,Very low,-387,955,1050,-3,-1,7,,,
+3.3759250641,Medium,Inactive,High,Very low,-338,952,1058,-5,1,4,,,
+3.3874733448,Medium,Inactive,High,Very low,,,,,,,0.4906743169,1.7368581295,0.6140315533
+3.4365544319,Medium,Inactive,High,Very low,-441,1058,993,-5,6,1,,,
+3.4539041519,Medium,Inactive,High,Very low,,,,,,,0.3133830428,1.3212770224,0.7063828707
+3.4819583893,Medium,Inactive,High,Very low,-509,1173,1060,-5,7,0,,,
+3.5224783421,Medium,Inactive,High,Very low,,,,,,,0.3422892094,1.4370387793,0.6806580424
+3.5265083313,Medium,Inactive,High,Very low,-625,1087,987,-4,8,2,,,
+3.5726180077,Medium,Inactive,High,Very low,-575,1249,1129,-2,15,-2,,,
+3.5944530964,Medium,Inactive,High,Very low,,,,,,,0.3738191724,1.5276809931,0.6605153084
+3.6169850826,Medium,Inactive,High,Very low,-496,1331,1374,-1,10,-4,,,
+3.654681921,Medium,Inactive,High,Very low,,,,,,,0.3648411334,1.5558347702,0.6542589664
+3.6617202759,Medium,Inactive,High,Very low,-505,1296,1169,-3,5,-2,,,
+3.7077534199,Medium,Inactive,High,Very low,-575,1235,1140,-4,7,-2,,,
+3.7304706573,Medium,Inactive,High,Very low,,,,,,,0.3945192397,1.6070746183,0.6428723335
+3.7521119118,Medium,Inactive,High,Very low,-465,1197,1120,-1,7,-7,,,
+3.7886743546,Medium,Inactive,High,Very low,,,,,,,0.4125114083,1.6554801464,0.6321154833
+3.7969379425,Medium,Inactive,High,Very low,-411,1153,1049,-2,7,-10,,,
+3.8427541256,Medium,Inactive,High,Very low,-300,1203,1016,-3,8,-13,,,
+3.8545084,Medium,Inactive,High,Very low,,,,,,,0.4121693671,1.6761307716,0.6275265217
+3.8875257969,Medium,Inactive,High,Very low,-303,1112,991,-5,5,-15,,,
+3.9201257229,Medium,Inactive,High,Very low,,,,,,,0.4681217968,1.6927832365,0.6238259077
+3.932053566,Medium,Inactive,High,Very low,-432,1058,1006,-7,4,-15,,,
+3.9782173634,Medium,Inactive,High,Very low,-343,1180,1036,-6,8,-16,,,
+3.9869933128,Medium,Inactive,High,Very low,,,,,,,0.4331735671,1.7025551796,0.6216543913
+4.0262305737,Medium,Inactive,High,Very low,-269,1108,1208,-3,3,-15,,,
+4.0540082455,Medium,Inactive,High,Very low,,,,,,,0.4294444323,1.7212473154,0.6175006032
+4.0719459057,Medium,Inactive,High,Very low,-281,1111,1110,-3,2,-12,,,
+4.11297369,Medium,Inactive,High,Very low,-206,1042,940,-3,1,-13,,,
+4.1249995232,Medium,Inactive,High,Very low,,,,,,,0.4172798693,1.7007185221,0.6220625639
+4.1573119164,Medium,Inactive,High,Very low,-8,919,742,-3,3,-14,,,
+4.1963255405,Medium,Inactive,High,Very low,,,,,,,0.4565804601,1.7119632959,0.6195636988
+4.1982181072,Medium,Inactive,High,Very low,334,1026,568,-6,9,-15,,,
+4.2435715199,Medium,Inactive,High,Very low,939,745,551,-12,5,-21,,,
+4.2651078701,Medium,Inactive,High,Very low,,,,,,,0.4406089485,1.7458652258,0.6120299101
+4.2885961533,Medium,Inactive,High,Very low,797,426,1100,-21,-3,-7,,,
+4.3302102089,Medium,Running,High,Very low,,,,,,,0.4525577724,1.7447874546,0.6122694612
+4.333394289,Medium,Running,High,Very low,894,714,1408,-23,-14,-10,,,
+4.3827161789,Medium,Running,High,Very low,967,1120,860,-14,7,-26,,,
+4.3863155842,Medium,Running,High,Very low,,,,,,,0.4563103318,1.7526097298,0.6105312109
+4.4235720634,Medium,Running,High,Very low,549,2630,100,10,45,-69,,,
+4.4579110146,Medium,Running,High,Very low,,,,,,,0.4316002131,1.7590254545,0.6091054678
+4.485013485,Medium,Running,High,Very low,-134,1778,603,7,30,-42,,,
+4.5178813934,High,Running,High,High,,,,,,,0.4466523528,1.7590894699,0.6090912223
+4.5304646492,High,Running,High,High,624,2522,1208,-10,23,-25,,,
+4.5762465,High,Running,High,High,622,3540,2345,-4,13,-18,,,
+4.5895347595,High,Running,High,High,,,,,,,0.4776941836,1.7508163452,0.6109297276
+4.6211707592,High,Running,High,High,398,3509,1038,6,17,1,,,
+4.6553149223,High,Running,High,High,,,,,,,0.4913690388,1.7499887943,0.6111136079
+4.6654622555,High,Running,High,High,470,2893,-303,6,23,17,,,
+4.7195324898,High,Running,High,High,,,,,,,0.5297432542,1.7464898825,0.6118911505
+4.7397654057,High,Running,High,High,535,2993,-885,3,38,35,,,
+4.7726719379,High,Running,High,High,169,3486,-461,-2,49,49,,,
+4.7871952057,High,Running,High,High,,,,,,,0.5724318624,1.759898901,0.6089113951
+4.8170981407,High,Running,High,High,-370,3879,-152,-4,52,57,,,
+4.8619213104,High,Running,High,High,-739,3415,134,-9,84,63,,,
+4.8631830215,High,Running,High,High,,,,,,,0.604504168,1.7352653742,0.6143854856
+4.9077191353,High,Running,High,High,-764,2425,1426,-30,108,65,,,
+4.9336364269,High,Running,High,High,,,,,,,0.6515339613,1.6578602791,0.6315866113
+4.9531672001,High,Running,High,High,-7,3597,3924,-38,77,52,,,
+4.9969539642,High,Running,High,High,640,4476,3292,-45,7,80,,,
+4.9977428913,High,Running,High,High,,,,,,,0.4988105297,1.5814675093,0.648562789
+5.0426800251,High,Running,High,High,-1792,2016,388,-37,5,106,,,
+5.0542802811,High,Running,High,High,,,,,,,0.4871723652,1.5592902899,0.6534910202
+5.0879461765,High,Running,High,High,-3178,-957,-2154,-27,-1,77,,,
+5.1224179268,High,Running,High,High,,,,,,,0.5991098285,1.4173485041,0.685033679
+5.1451435089,High,Running,High,High,-344,-1406,781,-20,37,-18,,,
+5.1784515381,High,Running,High,High,4085,871,6143,9,112,-86,,,
+5.1880421638,High,Running,High,High,,,,,,,0.6482142806,1.3626782894,0.6971825957
+5.223544836,High,Running,High,High,2605,4638,7383,-6,-109,-55,,,
+5.2631013393,High,Running,High,High,,,,,,,0.6268572211,1.3755310774,0.6943264008
+5.267254591,High,Running,High,High,566,954,3842,-12,-142,-73,,,
+5.3125736713,High,Running,High,High,-1697,-469,-3144,0,-85,-36,,,
+5.3308763504,High,Running,High,High,,,,,,,0.5504104495,1.2682368755,0.71816957
+5.3574202061,High,Running,High,High,-3659,1024,-7024,11,-78,71,,,
+5.3986289501,High,Running,High,High,,,,,,,0.38282305,1.2681107521,0.7181975842
+5.4024727345,High,Running,High,High,-2043,2137,-10597,-23,-73,33,,,
+5.4479782581,High,Running,High,High,-2649,964,-10731,-34,7,90,,,
+5.4579195976,High,Running,High,High,,,,,,,0.4385876954,1.2457224131,0.7231727839
+5.492554903,High,Running,High,High,-4469,-2103,-6237,-36,77,82,,,
+5.5282566547,High,Running,High,High,,,,,,,0.4912886322,1.1784337759,0.7381258011
+5.533438921,High,Running,High,High,-6404,3249,4293,-30,34,11,,,
+5.5786657333,High,Running,High,High,-4541,-543,5334,-33,-170,194,,,
+5.5991566181,High,Running,High,High,,,,,,,0.3137119114,1.0815614462,0.7596530318
+5.6237158775,High,Running,High,High,-420,-787,401,-40,-46,110,,,
+5.6637835503,High,Running,High,High,,,,,,,0.2729763985,1.004452467,0.7767883539
+5.6686522961,High,Running,High,High,-844,1382,1737,-69,-43,24,,,
+5.713748455,High,Running,High,High,-2769,969,-3354,-47,-66,60,,,
+5.7341182232,High,Running,High,High,,,,,,,0.2894218266,0.9999284148,0.7777937055
+5.7589919567,High,Running,High,High,-565,1117,-7974,-17,-41,15,,,
+5.8017354012,High,Running,High,High,,,,,,,0.4710277915,1.0027059317,0.7771764398
+5.8039484024,High,Running,High,High,-1718,-4380,-7419,15,54,36,,,
+5.8493392467,High,Running,High,High,-3133,-1710,5159,32,69,-36,,,
+5.8645563126,High,Running,High,High,,,,,,,0.4777220786,1.032905221,0.7704654932
+5.8939003944,High,Running,High,High,-3577,-2245,3520,-12,-63,55,,,
+5.9358172417,High,Running,High,High,,,,,,,0.4841787219,1.0725933313,0.7616459131
+5.9399914742,High,Running,High,High,-3106,-2169,-2211,4,5,56,,,
+5.9844501019,High,Running,High,High,-3488,-1582,961,10,43,45,,,
+5.9980316162,High,Running,High,High,,,,,,,0.4547636211,1.0905869007,0.7576473355
+6.0338077545,Very high,Running,Very high,Very high,-2466,-991,2740,-12,-48,109,,,
+6.0673434734,Very high,Running,Very high,Very high,,,,,,,0.4373840988,1.1860159636,0.736440897
+6.0827653408,Very high,Running,Very high,Very high,-2153,240,-1938,3,-29,99,,,
+6.1198990345,Very high,Running,Very high,Very high,-3090,-685,-6650,16,-21,140,,,
+6.1250104904,Very high,Running,Very high,Very high,,,,,,,0.4318000674,1.2143639326,0.7301413417
+6.1642277241,Very high,Running,Very high,Very high,-2728,-1157,-8551,19,2,139,,,
+6.1995139122,Very high,Running,Very high,Very high,,,,,,,0.3989869952,1.2890387774,0.7135469317
+6.2095587254,Very high,Running,Very high,Very high,-1239,-4487,-4279,-18,138,23,,,
+6.2547245026,Very high,Running,Very high,Very high,-9603,-4541,2364,29,27,69,,,
+6.2687044144,Very high,Running,Very high,Very high,,,,,,,0.3602100015,1.4089645147,0.686896801
+6.2997539043,Very high,Running,Very high,Very high,-4945,-3890,3023,28,-91,54,,,
+6.3348488808,Very high,Inactive,Very high,Very high,,,,,,,0.3336079717,1.4577976465,0.6760449409
+6.3450238705,Very high,Inactive,Very high,Very high,-4373,-3031,-302,34,5,44,,,
+6.3896064758,Very high,Inactive,Very high,Very high,-7140,-3338,1701,22,2,31,,,
+6.4029812813,Very high,Inactive,Very high,Very high,,,,,,,0.3791153133,1.4635487795,0.6747668982
+6.4345393181,Very high,Inactive,Very high,Very high,-4023,-2692,545,24,-47,48,,,
+6.4702398777,Very high,Inactive,Very high,Very high,,,,,,,0.4056790173,1.4432880878,0.6792693138
+6.4801943302,Very high,Inactive,Very high,Very high,-3617,-1522,-3000,29,-9,14,,,
+6.5288586617,Very high,Inactive,Very high,Very high,-3599,-2305,-3262,16,-2,31,,,
+6.5390737057,Very high,Inactive,Very high,Very high,,,,,,,0.3490353823,1.4129749537,0.6860055923
+6.569729805,Very high,Inactive,Very high,Very high,-3200,-3518,-1878,18,12,58,,,
+6.6041135788,Very high,Inactive,Very high,Very high,,,,,,,0.3037236631,1.4014407396,0.6885687113
+6.6148307323,Very high,Inactive,Very high,Very high,-4250,-3516,10,23,1,27,,,
+6.6603348255,Very high,Inactive,Very high,Very high,-4127,-3370,-170,29,-10,24,,,
+6.669854641,Very high,Inactive,Very high,Very high,,,,,,,0.3063424826,1.4413658381,0.6796964407
+6.7057590485,Very high,Inactive,Very high,Very high,-3736,-2973,-945,23,-7,32,,,
+6.7379169464,Very high,Inactive,Very high,Very high,,,,,,,0.3902001381,1.5757119656,0.6498417854
+6.7502703667,Very high,Inactive,Very high,Very high,-3049,-2454,-493,13,-7,42,,,
+6.7950632572,Very high,Inactive,Very high,Very high,-2132,-1973,1713,9,-1,51,,,
+6.7956941128,Very high,Inactive,Very high,Very high,,,,,,,0.4132216275,1.6773533821,0.6272548437
+6.8407008648,Very high,Inactive,Very high,Very high,-2059,-1137,2518,17,13,35,,,
+6.8670403957,Very high,Inactive,Very high,Very high,,,,,,,0.4037982523,1.7450553179,0.6122099161
+6.8858373165,Very high,Inactive,Very high,Very high,-3462,-189,915,7,8,8,,,
+6.9337863922,Very high,Inactive,Very high,Very high,,,,,,,0.4095756114,1.7639939785,0.6080013514
+6.9343309402,Very high,Inactive,Very high,Very high,-1674,151,-159,-11,-8,7,,,
+6.9794924259,Very high,Inactive,Very high,Very high,203,217,-1193,-14,14,16,,,
+7.0061953068,Very high,Inactive,Very high,Very high,,,,,,,0.4299997389,1.7828021049,0.6038217545
+7.0209028721,Very high,Inactive,Very high,Very high,-366,705,-538,-12,49,13,,,
+7.0624957085,Very high,Inactive,Very high,Very high,,,,,,,0.4162936211,1.8377876282,0.5916027427
+7.0653982162,Very high,Inactive,Very high,Very high,-2174,-834,308,-21,22,40,,,
+7.1117227077,Very high,Inactive,Very high,Very high,-2760,-2159,912,-22,3,27,,,
+7.122061491,Very high,Inactive,Very high,Very high,,,,,,,0.3931837678,1.8689483404,0.5846781731
+7.1890902519,Very high,Inactive,Very high,Very high,-2179,-1843,1266,-18,-3,4,,,
+7.195404768,Very high,Inactive,Very high,Very high,,,,,,,0.3817042708,1.9014956951,0.5774453878
+7.2334601879,Very high,Inactive,Very high,Very high,-2230,-1323,555,-20,-1,18,,,
+7.2643404007,Very high,Inactive,Very high,Very high,,,,,,,0.3940886557,1.8931552172,0.5792988539
+7.2750632763,Very high,Inactive,Very high,Very high,-2859,-1940,553,-23,-14,25,,,
+7.3196387291,Very high,Inactive,Very high,Very high,-2225,-2727,501,-24,-40,20,,,
+7.3296730518,Very high,Inactive,Very high,Very high,,,,,,,0.4095562994,1.9138714075,0.5746952295
+7.3643565178,Very high,Inactive,Very high,Very high,-1378,-2657,249,-15,-23,-1,,,
+7.3980743885,Very high,Inactive,Very high,Very high,,,,,,,0.4524564743,1.9149132967,0.5744637251
+7.4101698399,Very high,Inactive,Very high,Very high,-1513,-1913,392,-13,-1,-12,,,
+7.4554097652,Very high,Inactive,Very high,Very high,-1762,-2211,997,-9,3,-8,,,
+7.4555497169,Very high,Inactive,Very high,Very high,,,,,,,0.4040753841,1.9240753651,0.57242769
+7.4995598793,Very high,Inactive,Very high,Very high,-1670,-2215,675,-9,-2,-13,,,
+7.5231223106,High,Inactive,Very high,High,,,,,,,0.3592080474,1.9446659088,0.5678520203
+7.5461401939,High,Inactive,Very high,High,-1530,-2235,310,-14,-6,-12,,,
+7.5902328491,High,Inactive,Very high,High,-1573,-1973,781,-13,-6,-15,,,
+7.5916192532,High,Inactive,Very high,High,,,,,,,0.3646140099,1.9430639744,0.5682079792
+7.6347293854,High,Inactive,Very high,High,-862,-1699,265,0,8,-14,,,
+7.661937952,High,Inactive,Very high,High,,,,,,,0.3887432814,1.946606636,0.5674207211
+7.6808671951,High,Inactive,Very high,High,-1273,-1928,-530,8,42,-17,,,
+7.7255601883,High,Inactive,Very high,High,-2231,-2393,-1080,15,45,-24,,,
+7.7315282822,High,Inactive,Very high,High,,,,,,,0.3627726436,1.9446867704,0.5678473711
+7.7698004246,High,Inactive,Very high,High,-2809,-2982,-701,18,45,-12,,,
+7.8003604412,High,Inactive,Very high,High,,,,,,,0.4224573076,1.923568964,0.5725402236
+7.8197112083,High,Inactive,Very high,High,-2719,-3185,-56,20,36,-10,,,
+7.8606412411,High,Inactive,Very high,High,-2645,-3405,308,19,35,22,,,
+7.8648781776,High,Inactive,Very high,High,,,,,,,0.4342116117,1.9022433758,0.5772792101
+7.9142694473,High,Running,Very high,High,-3924,-3278,160,12,21,-3,,,
+7.9201028347,High,Running,Very high,High,,,,,,,0.425039202,1.8861471415,0.580856204
+7.9502060413,High,Running,Very high,High,-2459,-3641,-755,1,20,35,,,
+7.9951159954,High,Running,Very high,High,,,,,,,0.4919374883,1.8547757864,0.5878275633
+7.9951298237,High,Running,Very high,High,-2017,-4368,-2355,-5,42,54,,,
+8.040902853,High,Running,Very high,High,-1133,-4390,-2862,-12,60,102,,,
+8.0659458637,High,Running,Very high,High,,,,,,,0.5908287764,1.7949985266,0.601111412
+8.0853352547,High,Running,Very high,High,-2093,-5369,-586,-51,81,103,,,
+8.1308114529,High,Running,Very high,High,-2495,-7841,5155,-65,56,96,,,
+8.1330177784,High,Running,Very high,High,,,,,,,0.5329628587,1.7350699902,0.6144288778
+8.1759335995,High,Running,Very high,High,-1632,-8393,4325,-51,24,100,,,
+8.195813179,High,Running,Very high,High,,,,,,,0.4932062924,1.7022583485,0.6217203736
+8.2207486629,High,Running,Very high,High,824,-6181,274,-41,20,84,,,
+8.2657198906,High,Running,Very high,High,,,,,,,0.4664736986,1.6825846434,0.6260923147
+8.2696144581,High,Running,Very high,High,2819,-1171,-2987,-2,7,80,,,
+8.3274235725,High,Running,Very high,High,1882,3953,-4067,22,54,59,,,
+8.3354616165,High,Running,Very high,High,,,,,,,0.5133958459,1.5726056099,0.6505321264
+8.3802468777,High,Running,Very high,High,-2378,572,2140,-1,126,22,,,
+8.4005761147,High,Running,Very high,High,,,,,,,0.5217703581,1.4889626503,0.6691194177
+8.417293787,High,Running,Very high,High,-4317,-3855,5544,-21,-33,40,,,
+8.4621641636,High,Running,Very high,High,-2866,-3284,5833,4,-56,-45,,,
+8.4691996574,High,Running,Very high,High,,,,,,,0.5284494162,1.4034472704,0.6881228685
+8.507519722,High,Running,Very high,High,-2261,-3257,4511,19,-95,-35,,,
+8.5304348469,High,Running,Very high,High,,,,,,,0.4703276455,1.3023319244,0.7105928659
+8.552339077,High,Running,Very high,High,-2149,-2854,3332,40,-128,-45,,,
+8.5973172188,High,Running,Very high,High,655,-1672,-1378,44,-121,-12,,,
+8.5983717442,High,Running,Very high,High,,,,,,,0.4360847473,1.2184914351,0.7292240858
+8.6505401134,High,Running,Very high,High,1310,-1152,-7652,20,-68,33,,,
+8.66655159,High,Running,Very high,High,,,,,,,0.3939290941,1.114076972,0.7524273396
+8.6877553463,High,Running,Very high,High,3187,-1011,-9264,-20,-33,100,,,
+8.732373476,High,Running,Very high,High,5252,-1048,-3110,-58,-1,94,,,
+8.7337477207,High,Running,Very high,High,,,,,,,0.3909204006,1.077019453,0.7606623173
+8.7778232098,High,Running,Very high,High,5025,-2504,5845,2,-3,41,,,
+8.8001122475,High,Running,Very high,High,,,,,,,0.2803542018,0.9774590135,0.7827869058
+8.8228936195,High,Running,Very high,High,2541,-1341,3071,-15,-9,98,,,
+8.8675127029,High,Running,Very high,High,2463,-1750,3484,-24,20,67,,,
+8.870947361,High,Running,Very high,High,,,,,,,0.2614165246,0.9664286971,0.7852380872
+8.9126985073,High,Running,Very high,High,1859,-1938,5337,-15,-25,59,,,
+8.9366278648,High,Running,Very high,High,,,,,,,0.2908444405,0.9708121419,0.7842639685
+8.9578227997,High,Running,Very high,High,-90,-1837,180,-5,-42,-6,,,
+9.0028803349,High,Running,Very high,High,-1108,-1306,-6351,-4,-41,-55,,,
+9.0035412312,High,Running,Very high,High,,,,,,,0.3064424992,1.0131411552,0.7748575211
+9.0478668213,High,Running,Very high,High,-2866,-1415,-9242,-5,-16,-55,,,
+9.0748755932,High,Running,Very high,High,,,,,,,0.3956840038,1.0559399128,0.7653467059
+9.0930438042,High,Running,Very high,High,-202,1267,-6569,-17,28,-71,,,
+9.1340773106,High,Running,Very high,High,,,,,,,0.4878709316,1.1617481709,0.7418337464
+9.1382021904,High,Running,Very high,High,1180,472,4161,-8,21,-51,,,
+9.1835403442,High,Running,Very high,High,2911,409,6489,12,-43,-66,,,
+9.201310873,High,Running,Very high,High,,,,,,,0.5266122222,1.3078212738,0.7093730569
+9.2283163071,High,Running,Very high,High,3490,-11,2233,20,-51,-54,,,
+9.2597420216,High,Running,Very high,High,,,,,,,0.4704760611,1.4345245361,0.6812167764
+9.2780022621,High,Running,Very high,High,1687,-785,-1674,14,-43,-28,,,
+9.3187389374,High,Running,Very high,High,-237,-1455,-5156,-8,-10,-16,,,
+9.3313760757,High,Running,Very high,High,,,,,,,0.4574020207,1.464558363,0.6745425463
+9.3632118702,High,Running,Very high,High,883,-1600,-5254,-34,55,-11,,,
+9.3971927166,High,Running,Very high,High,,,,,,,0.460957706,1.6370093822,0.6362200975
+9.40848279,High,Running,Very high,High,2042,-654,2851,-19,62,-82,,,
+9.4497499466,High,Running,Very high,High,1411,1021,6051,12,25,-36,,,
+9.462375164,High,Running,Very high,High,,,,,,,0.446013689,1.7439988852,0.6124446988
+9.4943628311,High,Running,Very high,High,226,-340,505,-26,21,-32,,,
+9.5335612297,High,Running,Very high,High,,,,,,,0.4558769464,1.8051841259,0.5988479853
+9.543995142,High,Running,Very high,High,1189,-1630,-1455,-26,45,-35,,,
+9.5850570202,High,Running,Very high,High,2263,-1149,2030,-17,6,-46,,,
+9.6042585373,High,Running,Very high,High,,,,,,,0.4559123516,1.8217790127,0.5951602459
+9.6334614754,High,Running,Very high,High,2332,2435,4169,8,37,-16,,,
+9.6659393311,High,Running,Very high,High,,,,,,,0.4867042005,1.8182040453,0.5959546566
+9.6748263836,High,Running,Very high,High,-562,4931,3185,-8,62,-5,,,
+9.7198219299,High,Running,Very high,High,-317,1546,2534,-2,23,9,,,
+9.7290244102,High,Running,Very high,High,,,,,,,0.4640935957,1.8340716362,0.592428565
+9.7651610374,High,Running,Very high,High,364,508,216,12,6,-46,,,
+9.7868111134,High,Running,Very high,High,,,,,,,0.4546546638,1.8413639069,0.5908080339
+9.8103818893,High,Inactive,Very high,High,-733,1399,-1105,11,33,-38,,,
+9.8553256989,High,Inactive,Very high,High,,,,,,,0.4961109757,1.869746089,0.5845009089
+9.855866909,High,Inactive,Very high,High,-2317,1817,-1603,1,17,-9,,,
+9.8997120857,High,Inactive,Very high,High,-1600,1149,-2275,-6,6,-18,,,
+9.9214026928,High,Inactive,Very high,High,,,,,,,0.4202226698,1.9202136993,0.5732858181
+9.9466972351,High,Inactive,Very high,High,-1610,980,-1778,8,5,-47,,,
+9.9903755188,High,Inactive,Very high,High,-1442,1616,-947,4,-30,-55,,,
+9.9935662746,High,Inactive,Very high,High,,,,,,,0.4240305722,1.9476983547,0.5671781301
+10.0442175865,High,Inactive,Very high,High,-377,1802,-1328,-2,-30,-41,,,
+10.0541098118,High,Inactive,Very high,High,,,,,,,0.4610284865,1.9590613842,0.564653039
+10.0843238831,High,Inactive,Very high,High,-115,1731,-1689,10,-21,-56,,,
+10.1268649101,High,Inactive,Very high,High,,,,,,,0.4733987451,1.9563895464,0.5652467608
+10.129062891,High,Inactive,Very high,High,359,1418,-1726,18,-19,-37,,,
+10.1791849136,High,Inactive,Very high,High,570,2409,24,19,-17,-58,,,
+10.187800169,High,Inactive,Very high,High,,,,,,,0.4908681214,1.9019569159,0.5773428679
+10.2274372578,High,Inactive,Very high,High,246,6199,3502,36,-4,-90,,,
+10.2538495064,High,Inactive,Very high,High,,,,,,,0.5258227587,1.8194622993,0.5956750512
+10.2608268261,High,Inactive,Very high,High,4293,10427,5356,3,-70,-123,,,
+10.3143062592,High,Inactive,Very high,High,6004,9763,5142,-10,-64,-165,,,
+10.3207035065,High,Inactive,Very high,High,,,,,,,0.5365606546,1.7438760996,0.6124719381
+10.3515379429,High,Inactive,Very high,High,5963,3635,1477,-21,-80,-167,,,
+10.388263464,High,Inactive,Very high,High,,,,,,,0.4967381358,1.6812833548,0.6263815165
+10.4036784172,High,Inactive,Very high,High,2667,-3448,-8477,3,-39,-125,,,
+10.4415175915,High,Inactive,Very high,High,-3048,-9448,-12073,10,46,-63,,,
+10.4570975304,High,Inactive,Very high,High,,,,,,,0.4013196826,1.598490715,0.6447798014
+10.4856972694,High,Inactive,Very high,High,-4628,-7739,-4938,80,144,-110,,,
+10.5302629471,Medium,Running,Very high,High,,,,,,,0.3966779709,1.4866448641,0.6696344614
+10.5304834843,Medium,Running,Very high,High,-6604,802,3813,86,86,-87,,,
+10.5759110451,Medium,Running,Very high,High,-5080,5945,7642,34,-13,-32,,,
+10.6010694504,Medium,Running,Very high,High,,,,,,,0.4234855473,1.2699350119,0.717792213
+10.6210222244,Medium,Running,Very high,High,-906,4133,4130,-43,-27,74,,,
+10.6668014526,Medium,Running,Very high,High,,,,,,,0.3448002338,1.1085044146,0.7536656857
+10.6698110104,Medium,Running,Very high,High,-1104,4930,4062,-68,5,29,,,
+10.7110657692,Medium,Running,Very high,High,-377,6889,5708,-111,-65,85,,,
+10.7387742996,Medium,Running,Very high,High,,,,,,,0.2838993967,0.9703349471,0.7843700051
+10.7599511147,Medium,Running,Very high,High,-2109,4490,-2023,-98,-39,37,,,
+10.8008275032,Medium,Running,Very high,High,-634,1475,-5352,-87,32,-27,,,
+10.8023006916,Medium,Running,Very high,High,,,,,,,0.2282512337,0.8425567746,0.8127651811
+10.8459928036,Medium,Running,Very high,High,-1449,-3455,-2986,-28,20,-17,,,
+10.8742063046,Medium,Running,Very high,High,,,,,,,0.2670347989,0.7343187332,0.8368180394
+10.8950805664,Medium,Running,Very high,High,-2371,-5471,1521,28,-16,-68,,,
+10.9359664917,Medium,Running,Very high,High,202,-1939,1311,30,18,-42,,,
+10.9468240738,Medium,Running,Very high,High,,,,,,,0.215344727,0.6309320331,0.8597928882
+10.9812698364,Medium,Running,Very high,High,-450,642,-326,-14,9,-79,,,
+11.0118572712,Medium,Running,Very high,High,,,,,,,0.3160243332,0.5710351467,0.8731033206
+11.026665926,Medium,Running,Very high,High,26,599,1428,-54,-1,-38,,,
+11.0688371658,Medium,Running,Very high,High,,,,,,,0.5539032221,0.5210860372,0.8842030764
+11.0757005215,Medium,Running,Very high,High,-705,57,6554,-45,-38,32,,,
+11.1167943478,Medium,Running,Very high,High,332,1785,4126,-44,-114,59,,,
+11.125546217,Medium,Running,Very high,High,,,,,,,0.6853829622,0.5193226933,0.8845949769
+11.1611914635,Medium,Running,Very high,High,100,538,-3931,-34,-44,126,,,
+11.1971173286,Medium,Running,Very high,High,,,,,,,0.6657227278,0.5164118409,0.8852418065
+11.2071871758,Medium,Running,Very high,High,-2007,783,-7843,-33,-66,89,,,
+11.2513885498,Medium,Running,Very high,High,-2657,-141,-11001,-21,3,97,,,
+11.2689955235,Medium,Running,Very high,High,,,,,,,0.4466000497,0.538629353,0.880304575
+11.2963662148,Medium,Running,Very high,High,-1246,-1010,-7766,-45,34,47,,,
+11.341657877,Medium,Running,Very high,High,,,,,,,0.2199616879,0.5966185331,0.8674181104
+11.3455967903,Medium,Running,Very high,High,3181,-8228,-1732,-93,177,57,,,
+11.3988149166,Medium,Running,Very high,High,-9922,-9379,3249,23,-100,70,,,
+11.4043259621,Medium,Running,Very high,High,,,,,,,0.2004215419,0.6823965311,0.8483563066
+11.4317121506,Medium,Running,Very high,High,3411,-2577,2127,37,-112,55,,,
+11.4811890125,Medium,Running,Very high,High,-160,-322,0,17,14,99,,,
+11.5008451939,Medium,Running,Very high,High,,,,,,,0.2409278899,0.7577655911,0.8316076398
+11.5386648178,Medium,Running,Very high,High,-4410,-4099,-1284,13,-23,67,,,
+11.5727186203,Medium,Running,Very high,High,,,,,,,0.297832936,0.8465545177,0.8118767738
+11.5832862854,Medium,Running,Very high,High,-2588,-3556,256,46,7,8,,,
+11.6288254261,Medium,Running,Very high,High,-2316,-535,319,60,-23,46,,,
+11.6410102844,Medium,Running,Very high,High,,,,,,,0.3351659179,0.8929370642,0.8015695214
+11.6745116711,Medium,Running,Very high,High,-2876,513,-1222,31,5,36,,,
+11.7063117027,Medium,Running,Very high,High,,,,,,,0.3914699554,0.9309232235,0.7931281924
+11.7346301079,Medium,Running,Very high,High,-1804,-1607,1943,3,18,13,,,
+11.764578104,Medium,Running,Very high,High,,,,,,,0.369912535,1.0239328146,0.7724593878
+11.7760312557,Medium,Running,Very high,High,-3587,-3862,4386,66,-1,-56,,,
+11.8209872246,Medium,Inactive,Very high,High,-3565,-1684,298,69,-24,-70,,,
+11.8386459351,Medium,Inactive,Very high,High,,,,,,,0.3807621002,1.0457183123,0.7676181793
+11.8657975197,Medium,Inactive,Very high,High,-2792,-316,-2904,16,-13,-20,,,
+11.9029226303,Medium,Inactive,Very high,High,,,,,,,0.3748770356,1.0602624416,0.7643861175
+11.9156661034,Medium,Inactive,Very high,High,-1155,-1830,-2409,1,9,10,,,
+11.9602427483,Medium,Inactive,Very high,High,-2527,-3445,2081,40,10,-6,,,
+11.9667971134,Medium,Inactive,Very high,High,,,,,,,0.3489941657,1.1033341885,0.7548146248
+12.0055701733,Medium,Inactive,Very high,Very high,-2352,-2266,2549,65,-37,-47,,,
+12.0397737026,Medium,Inactive,Very high,Very high,,,,,,,0.3480502665,1.1482578516,0.744831562
+12.0462021828,Medium,Inactive,Very high,Very high,-1490,-1582,315,41,-17,2,,,
+12.091183424,Medium,Inactive,Very high,Very high,-1057,-560,393,16,0,-3,,,
+12.1080439091,Medium,Inactive,Very high,Very high,,,,,,,0.3939612806,1.1217263937,0.7507274747
+12.141420126,Medium,Inactive,Very high,Very high,-856,-905,1344,6,-4,12,,,
+12.1759636402,Medium,Inactive,Very high,Very high,,,,,,,0.3759357929,1.1535993814,0.7436445951
+12.19358325,Medium,Inactive,Very high,Very high,-1580,-1865,1440,5,1,-5,,,
+12.2265431881,Medium,Inactive,Very high,Very high,-1109,-1845,669,5,-1,-3,,,
+12.2330331802,Medium,Inactive,Very high,Very high,,,,,,,0.3654144704,1.1893560886,0.7356986403
+12.2720141411,Medium,Inactive,Very high,Very high,-1314,-2147,81,-8,4,24,,,
+12.3024325371,Medium,Inactive,Very high,Very high,,,,,,,0.3536675274,1.2151873112,0.729958415
+12.316889286,Medium,Inactive,Very high,Very high,-772,-2177,79,-12,7,29,,,
+12.3617475033,Medium,Inactive,Very high,Very high,-1445,-2133,741,-9,22,31,,,
+12.3684108257,Medium,Inactive,Very high,Very high,,,,,,,0.3641427159,1.2141009569,0.7301998138
+12.4070596695,Medium,Inactive,Very high,Very high,-1195,-2008,1638,-10,0,45,,,
+12.433226347,Medium,Inactive,Very high,Very high,,,,,,,0.3893115819,1.1937898397,0.7347133756
+12.4524388313,Medium,Inactive,Very high,Very high,-1743,-1938,584,-11,6,17,,,
+12.4966447353,Medium,Inactive,Very high,Very high,-1894,-1790,-1351,-19,26,33,,,
+12.5051193237,Medium,Inactive,Very high,Very high,,,,,,,0.3908587396,1.1774595976,0.7383422852
+12.5504179001,Medium,Inactive,Very high,Very high,-1998,-2230,-3988,-39,49,36,,,
+12.5706813335,Medium,Inactive,Very high,Very high,,,,,,,0.423574388,1.0763587952,0.7608091831
+12.5907611847,Medium,Inactive,Very high,Very high,-1708,-3408,-4330,-74,89,68,,,
+12.6321671009,Medium,Inactive,Very high,Very high,-116,-5994,169,-72,89,80,,,
+12.641361475,Medium,Running,Very high,Very high,,,,,,,0.3694415987,0.962280333,0.7861599326
+12.6770918369,Medium,Running,Very high,Very high,383,-9802,6915,-55,26,94,,,
+12.7082300186,Medium,Running,Very high,Very high,,,,,,,0.3188777268,0.8820160031,0.8039964437
+12.7259371281,Medium,Running,Very high,Very high,913,-9145,7579,-61,-4,112,,,
+12.7669444084,Medium,Running,Very high,Very high,3423,-7194,3631,-59,-32,135,,,
+12.7683405876,Medium,Running,Very high,Very high,,,,,,,0.2805085778,0.8379324675,0.8137927651
+12.8119087219,Medium,Running,Very high,Very high,3508,-2678,-3056,-21,-4,127,,,
+12.8390700817,Medium,Running,Very high,Very high,,,,,,,0.3015823066,0.7915579677,0.8240982294
+12.8571200371,Medium,Running,Very high,Very high,2319,1496,-6973,26,50,120,,,
+12.9020678997,Medium,Running,Very high,Very high,532,5048,-5968,20,99,137,,,
+12.9090943336,Medium,Running,Very high,Very high,,,,,,,0.3301928341,0.7209920883,0.8397795558
+12.9516897202,Medium,Running,Very high,Very high,-353,3152,-760,27,129,90,,,
+12.9789125919,Medium,Running,Very high,Very high,,,,,,,0.2355306596,0.6381334066,0.8581925631
+12.9921507835,Medium,Running,Very high,Very high,-2983,-2772,4273,6,76,86,,,
+13.0421593189,Medium,Running,Very high,Very high,-2753,-5922,5784,-4,-10,20,,,
+13.0432875156,Medium,Running,Very high,Very high,,,,,,,0.2124960572,0.517816484,0.884929657
+13.0823974609,Medium,Running,Very high,Very high,-1994,-5978,5989,4,-35,-33,,,
+13.0865514278,Medium,Running,Very high,Very high,,,,,,,0.2124960572,0.3108808994,0.9309153557
+13.1272547245,Medium,Running,Very high,Very high,-1664,-5573,6301,10,-65,-10,,,
+13.1489686966,Medium,Running,Very high,Very high,,,,,,,0,0,0
+13.1733877659,Medium,Running,Very high,Very high,793,-3882,2647,7,-145,-11,,,
+13.1944999695,Medium,Running,Very high,Very high,,,,,,,0.7381718755,0.3311724365,0.9264061451
+13.2225425243,Medium,Running,Very high,Very high,4820,302,-5488,29,-53,111,,,
+13.2570416927,Medium,Running,Very high,Very high,,,,,,,0.8727952242,0.5173271894,0.8850383759
+13.2624080181,Medium,Running,Very high,Very high,4008,370,-8764,16,9,92,,,
+13.3130555153,Medium,Running,Very high,Very high,4197,-275,-5383,-30,50,93,,,
+13.3306789398,Medium,Running,Very high,Very high,,,,,,,0.5572059751,0.6994485259,0.8445670009
+13.3534872532,Medium,Running,Very high,Very high,6532,-2819,3113,-37,53,107,,,
+13.3975696564,Medium,Running,Very high,Very high,,,,,,,0.3621188998,0.6786094904,0.8491978645
+13.3976349831,Medium,Running,Very high,Very high,5596,-3186,7126,-24,-70,108,,,
+13.4428908825,Medium,Running,Very high,Very high,4350,-1890,2049,-26,-57,121,,,
+13.4625279903,Medium,Running,Very high,Very high,,,,,,,0.4172365069,0.789231956,0.8246151209
+13.4882774353,Medium,Running,Very high,Very high,118,-4180,-605,-48,-58,50,,,
+13.5239703655,High,Running,Very high,High,,,,,,,0.3719402552,0.8689950109,0.8068900108
+13.5328187943,High,Running,Very high,High,-3201,-564,-6548,-66,-27,49,,,
+13.5784914494,High,Running,Very high,High,-2502,-763,-10466,-31,38,-61,,,
+13.6002211571,High,Running,Very high,High,,,,,,,0.2950447798,0.9279238582,0.7937946916
+13.6634635925,High,Running,Very high,High,,,,,,,0.2961967885,1.0383930206,0.7692459822
+13.6807994843,High,Running,Very high,High,-1260,2100,-3193,-5,95,-102,,,
+13.7214574814,High,Running,Very high,High,2077,101,6724,-8,-30,-130,,,
+13.7298884392,High,Running,Very high,High,,,,,,,0.5342481732,1.217042923,0.7295460105
+13.7621197701,High,Running,Very high,High,3115,1329,4779,-15,-46,-115,,,
+13.7883858681,High,Running,Very high,High,,,,,,,0.6047420502,1.3353655338,0.7032520771
+13.8156373501,High,Running,Very high,High,3596,194,1286,27,-87,-115,,,
+13.848845005,High,Running,Very high,High,3527,-1089,-1770,4,-103,0,,,
+13.8634576797,High,Running,Very high,High,,,,,,,0.6404095888,1.4973270893,0.6672606468
+13.8933126926,High,Running,Very high,High,1373,-1308,-7073,-53,-101,10,,,
+13.9382860661,High,Running,Very high,High,-730,874,-9806,-80,1,-37,,,
+13.9385929108,High,Running,Very high,High,,,,,,,0.6349801421,1.716412425,0.6185749769
+13.9836966991,High,Running,Very high,High,2178,3759,-6372,-22,187,-133,,,
+13.9979014397,High,Running,Very high,High,,,,,,,0.5749697089,1.8638519049,0.5858106613
+14.0283389091,High,Running,Very high,High,2136,-2469,6599,41,46,-99,,,
+14.0660793781,High,Running,Very high,High,,,,,,,0.5657541752,2.0143764019,0.5523607731
+14.0818436146,High,Running,Very high,High,-336,-1008,2221,11,-64,-36,,,
+14.1190795898,High,Running,Very high,High,-1008,-423,-3807,9,17,-90,,,
+14.1276707649,High,Running,Very high,High,,,,,,,0.5557873249,2.1476194859,0.5227512121
+14.1644802094,High,Running,Very high,High,-2227,1367,-1222,11,11,-165,,,
+14.1893837452,High,Running,Very high,High,,,,,,,0.626031518,2.1920337677,0.5128813982
+14.2096538544,High,Running,Very high,High,2020,4384,702,-22,-44,-117,,,
+14.2543787956,High,Running,Very high,High,6605,3347,2182,26,-39,-87,,,
+14.2628102303,High,Running,Very high,High,,,,,,,0.6877679825,2.2653365135,0.496591866
+14.2986342907,High,Running,Very high,High,2653,5239,2418,-3,7,-115,,,
+14.3245377541,High,Running,Very high,High,,,,,,,0.6910484433,2.3461823463,0.478626132
+14.3454294205,High,Running,Very high,High,327,4531,3603,-9,24,-94,,,
+14.3922533989,High,Running,Very high,High,,,,,,,0.5645403266,2.4088995457,0.4646890163
+14.3929145336,High,Running,Very high,High,-1144,2495,2894,2,2,-95,,,
+14.4338579178,High,Running,Very high,High,1198,2021,69,-31,-23,-37,,,
+14.4566247463,High,Running,Very high,High,,,,,,,0.5630890727,2.4816532135,0.4485214949
+14.4795615673,High,Running,Very high,High,1114,1684,-1261,-23,40,-39,,,
+14.5210199356,High,Running,Very high,High,-1159,1611,93,-21,32,-25,,,
+14.5263845921,High,Running,Very high,High,,,,,,,0.6352490783,2.5167777538,0.4407160282
+14.5649497509,High,Running,Very high,High,-1821,889,-78,-20,29,-19,,,
+14.5889286995,High,Running,Very high,High,,,,,,,0.680318296,2.5510146618,0.4331078529
+14.6103508472,High,Inactive,Very high,High,-2093,526,99,-23,25,-14,,,
+14.65629673,High,Inactive,Very high,High,,,,,,,0.7170673013,2.5208280087,0.4398159981
+14.6718502045,High,Inactive,Very high,High,-2029,-28,-335,-26,18,2,,,
+14.7220039368,High,Inactive,Very high,High,-2434,48,-833,-25,21,1,,,
+14.7244079113,High,Inactive,Very high,High,,,,,,,0.6942097545,2.5394799709,0.4356710911
+14.761485815,High,Inactive,Very high,High,-2366,-654,-1312,-15,29,-1,,,
+14.7880425453,High,Inactive,Very high,High,,,,,,,0.6959117055,2.5977914333,0.4227130413
+14.8074820042,High,Inactive,Very high,High,-2420,-227,-594,-13,24,-24,,,
+14.852345705,High,Inactive,Very high,High,-1537,-23,-47,-8,18,-25,,,
+14.8587367535,High,Inactive,Very high,High,,,,,,,0.6806465983,2.6195802689,0.417871058
+14.8972229958,High,Inactive,Very high,High,-1201,192,452,-2,24,-23,,,
+14.9188578129,High,Inactive,Very high,High,,,,,,,0.6641128063,2.667984724,0.4071145058
+14.9423696995,High,Inactive,Very high,High,-2058,-143,771,-2,-4,-18,,,
+14.9879696369,High,Inactive,Very high,High,-1975,-204,-58,2,-9,-29,,,
+14.9904305935,High,Inactive,Very high,High,,,,,,,0.6278437972,2.701921463,0.3995730281
+15.0318324566,Medium,Inactive,Very high,Medium,-2193,-187,-259,-8,-2,-13,,,
+15.0604431629,Medium,Inactive,Very high,Medium,,,,,,,0.6178928018,2.7119863033,0.3973363638
+15.0853745937,Medium,Inactive,Very high,Medium,-1438,-120,-423,-18,3,-4,,,
+15.1302964687,Medium,Inactive,Very high,Medium,-1304,32,-316,-3,12,-13,,,
+15.1305711269,Medium,Inactive,Very high,Medium,,,,,,,0.77319175,2.6518855095,0.4106920958
+15.1714332104,Medium,Inactive,Very high,Medium,-1722,285,40,-1,14,-15,,,
+15.1988148689,Medium,Inactive,Very high,Medium,,,,,,,0.6219067574,2.5052108765,0.4432864785
+15.2131049633,Medium,Inactive,Very high,Medium,-1698,240,565,-9,15,4,,,
+15.2571043968,Medium,Inactive,Very high,Medium,-1598,-224,672,-11,-2,11,,,
+15.2663152218,Medium,Inactive,Very high,Medium,,,,,,,0.7683881521,2.3629243374,0.4749057293
+15.3021318913,Medium,Inactive,Very high,Medium,-1442,-207,-341,-9,0,7,,,
+15.3359491825,Medium,Inactive,Very high,Medium,,,,,,,0.7664015889,2.3254053593,0.483243227
+15.3476173878,Medium,Inactive,Very high,Medium,-1407,-73,-626,-7,8,13,,,
+15.3926751614,Medium,Inactive,Very high,Medium,-1511,-502,-80,-5,5,17,,,
+15.3987243176,Medium,Inactive,Very high,Medium,,,,,,,0.6119932532,2.3644776344,0.4745604992
+15.437636137,Medium,Inactive,Very high,Medium,-1388,-549,968,1,-2,23,,,
+15.466365099,Medium,Inactive,Very high,Medium,,,,,,,0.7247768641,2.5466604233,0.4340754747
+15.4825665951,Medium,Inactive,Very high,Medium,-1533,-754,1166,-8,-13,29,,,
+15.5279531479,Medium,Inactive,Very high,Medium,-1129,-766,573,-7,-24,26,,,
+15.5326220989,Medium,Inactive,Very high,Medium,,,,,,,0.728607893,2.6255185604,0.4165514112
+15.577180624,Medium,Inactive,Very high,Medium,-992,-423,-227,-4,-19,25,,,
+15.5921645164,Medium,Inactive,Very high,Medium,,,,,,,0.7574012876,2.6562957764,0.4097120762
+15.6220421791,Medium,Inactive,Very high,Medium,-1115,-543,-289,-6,-15,27,,,
+15.6627357006,Medium,Inactive,Very high,Medium,-1216,-704,-332,-3,-8,21,,,
+15.6663897038,Medium,Inactive,Very high,Medium,,,,,,,0.7330388427,2.6670453548,0.4073232412
+15.7087767124,Medium,Inactive,Very high,Medium,-1271,-399,-273,-2,-4,12,,,
+15.7309031487,Medium,Inactive,Very high,Medium,,,,,,,0.7414433956,2.6763036251,0.4052658677
+15.7531890869,Medium,Inactive,Very high,Medium,-959,-348,27,-5,0,13,,,
+15.798075676,Medium,Inactive,Very high,Medium,-990,-639,426,-5,-2,10,,,
+15.8034076691,Medium,Inactive,Very high,Medium,,,,,,,0.7608757615,2.7019221783,0.3995728493
+15.8433756828,Medium,Inactive,Very high,Medium,-949,-349,432,-5,-4,6,,,
+15.864304781,Medium,Inactive,Very high,Medium,,,,,,,0.6749175191,2.7049357891,0.3989031315
+15.8882029057,Medium,Inactive,Very high,Medium,-600,-216,282,-12,-9,16,,,
+15.9311914444,Medium,Inactive,Very high,Medium,,,,,,,0.6890693307,2.7118637562,0.3973636031
+15.9329259396,Medium,Inactive,Very high,Medium,-636,330,-436,-10,4,-2,,,
+15.9787688255,Medium,Inactive,Very high,Medium,-953,400,-276,-10,14,-13,,,
+15.9876461029,Medium,Inactive,Very high,Medium,,,,,,,0.6751791239,2.7089107037,0.3980198503
+16.0230183601,Medium,Inactive,Very high,Medium,-1115,367,-121,-11,-3,-8,,,
+16.0572428703,Medium,Inactive,Very high,Medium,,,,,,,0.6630303264,2.6738388538,0.4058135748
+16.0681304932,Medium,Inactive,Very high,Medium,-809,795,-417,-6,-14,-17,,,
+16.1137521267,Medium,Inactive,Very high,Medium,-137,2014,-1921,7,23,-24,,,
+16.1291196346,Medium,Inactive,Very high,Medium,,,,,,,0.5863021016,2.6559548378,0.4097878337
+16.1582858562,Medium,Inactive,Very high,Medium,-693,1358,-2166,19,11,-28,,,
+16.1938903332,Medium,Inactive,Very high,Medium,,,,,,,0.5204545259,2.5416443348,0.4351901412
+16.2036731243,Medium,Inactive,Very high,Medium,-764,1316,-3688,19,12,-66,,,
+16.2488741875,Medium,Inactive,Very high,Medium,13,2997,-1961,32,-8,-97,,,
+16.2529804707,Medium,Inactive,Very high,Medium,,,,,,,0.5432986021,2.4839446545,0.4480122924
+16.2976126671,Medium,Inactive,Very high,Medium,481,7072,4220,14,-38,-112,,,
+16.3265590668,Medium,Inactive,Very high,Medium,,,,,,,0.4880319238,2.3179600239,0.4848977923
+16.3398005962,Medium,Inactive,Very high,Medium,4622,5538,3371,28,-45,-169,,,
+16.3842208385,Medium,Inactive,Very high,Medium,5641,4986,1147,14,9,-167,,,
+16.3935053349,Medium,Inactive,Very high,Medium,,,,,,,0.5007596016,2.1836235523,0.5147503614
+16.4285812378,Medium,Inactive,Very high,Medium,4766,4407,4472,11,26,-172,,,
+16.4639463425,Medium,Inactive,Very high,Medium,,,,,,,0.4650599957,2.0719473362,0.5395672321
+16.4743692875,Medium,Inactive,Very high,Medium,2083,3669,4187,48,-22,-117,,,
+16.5191817284,Medium,Inactive,Very high,Medium,1009,859,-2074,28,-33,-118,,,
+16.5311863422,Medium,Inactive,Very high,Medium,,,,,,,0.3909823,1.8650102615,0.5855532885
+16.5640108585,Medium,Inactive,Very high,Medium,-2504,-4812,-5947,40,15,-40,,,
+16.5981862545,Medium,Inactive,Very high,Medium,,,,,,,0.463768512,1.7618560791,0.6084764004
+16.6094460487,Medium,Running,Very high,Medium,-4608,-3170,-4363,35,131,-50,,,
+16.6583828926,Medium,Running,Very high,Medium,-5885,2089,5347,32,64,20,,,
+16.6669318676,Medium,Running,Very high,Medium,,,,,,,0.4298632145,1.6426092386,0.6349757314
+16.6989309788,Medium,Running,Very high,Medium,-2704,3603,6416,-18,-26,61,,,
+16.7320213318,Medium,Running,Very high,Medium,,,,,,,0.4351869226,1.5287567377,0.6602762938
+16.7443673611,Medium,Running,Very high,Medium,-1210,1817,5881,-57,-4,114,,,
+16.7894458771,Medium,Running,Very high,Medium,857,4332,3025,-48,-11,103,,,
+16.7908000946,Medium,Running,Very high,Medium,,,,,,,0.4077217877,1.5255028009,0.6609994173
+16.8340606689,Medium,Running,Very high,Medium,4771,6239,-2273,-69,-26,26,,,
+16.8635532856,Medium,Running,Very high,Medium,,,,,,,0.3839347661,1.3269939423,0.7051124573
+16.8793907166,Medium,Running,Very high,Medium,1008,2166,-5859,-69,14,-37,,,
+16.9242255688,Medium,Running,Very high,Medium,-2555,-1909,-5099,-18,10,-78,,,
+16.9350943565,Medium,Running,Very high,Medium,,,,,,,0.4315801263,1.1178418398,0.7515907288
+16.9692132473,Medium,Running,Very high,Medium,737,-1116,-724,52,-31,-134,,,
+17.008739233,Medium,Running,Very high,Medium,,,,,,,0.460373342,1.0104745626,0.7754501104
+17.0146160126,Medium,Running,Very high,Medium,10699,405,4303,-33,40,-124,,,
+17.0597398281,Medium,Running,Very high,Medium,3543,-2390,7326,-38,-40,-163,,,
+17.0709834099,Medium,Running,Very high,Medium,,,,,,,0.520945549,0.9492170215,0.7890628576
+17.1002585888,Medium,Running,Very high,Medium,-3123,-2261,7559,51,-124,-85,,,
+17.1423280239,Medium,Running,Very high,Medium,,,,,,,0.5374475121,0.8452268839,0.8121718168
+17.1455423832,Medium,Running,Very high,Medium,-3650,-1151,196,5,-171,-2,,,
+17.1949884892,Medium,Running,Very high,Medium,-5355,329,-12470,30,-100,90,,,
+17.2088792324,Medium,Running,Very high,Medium,,,,,,,0.4304364324,0.7268171906,0.8384850621
+17.2355973721,Medium,Running,Very high,Medium,-6029,1043,-18457,37,95,61,,,
+17.2753508091,Medium,Running,Very high,Medium,,,,,,,0.3283602595,0.6375145316,0.8583301306
+17.2807941437,Medium,Running,Very high,Medium,-4049,-102,-5515,17,149,94,,,
+17.3255889416,Medium,Running,Very high,Medium,-1891,4476,6920,-17,3,81,,,
+17.3422822952,Medium,Running,Very high,Medium,,,,,,,0.2074947208,0.6314389706,0.8596802354
+17.3707346916,Medium,Running,Very high,Medium,-3318,800,3584,-54,-46,137,,,
+17.4062871933,Medium,Running,Very high,Medium,,,,,,,0.230338797,0.6250373721,0.8611028194
+17.4238576889,Medium,Running,Very high,Medium,-1469,1202,-963,-36,-4,79,,,
+17.4612629414,Medium,Running,Very high,Medium,-149,2282,-416,-47,-25,70,,,
+17.4716558456,Medium,Running,Very high,Medium,,,,,,,0.3204677999,0.6795759797,0.848983109
+17.5066411495,Medium,Running,Very high,Medium,-825,-4693,-6435,-39,-13,112,,,
+17.5374896526,Medium,Running,Very high,Medium,,,,,,,0.2935618758,0.6903850436,0.8465811014
+17.5523991585,Medium,Running,Very high,Medium,-2651,-8533,-1583,37,77,48,,,
+17.5962321758,Medium,Running,Very high,Medium,-227,-2961,6396,30,-48,32,,,
+17.6044201851,Medium,Running,Very high,Medium,,,,,,,0.2227872461,0.6696591973,0.8511868715
+17.6413989067,Medium,Running,Very high,Medium,-252,-2510,-299,-17,12,104,,,
+17.6685194969,Medium,Running,Very high,Medium,,,,,,,0.2106998712,0.6873651147,0.8472521901
+17.6901507378,Medium,Running,Very high,Medium,-2314,-2688,-2622,-4,29,85,,,
+17.7351913452,Medium,Running,Very high,Medium,-2424,-2373,-437,1,-5,104,,,
+17.7364294529,Medium,Running,Very high,Medium,,,,,,,0.2317212373,0.7562614083,0.8319419026
+17.7764616013,Medium,Running,Very high,Medium,-1358,-1672,-911,-13,-19,123,,,
+17.804207325,Medium,Running,Very high,Medium,,,,,,,0.296534121,0.7931568623,0.8237429261
+17.8213033676,Medium,Running,Very high,Medium,-962,-1369,-4302,-19,13,141,,,
+17.8662867546,Medium,Running,Very high,Medium,-1916,-2399,-1555,-45,48,102,,,
+17.8743643761,Medium,Running,Very high,Medium,,,,,,,0.430698812,0.8547606468,0.8100531697
+17.9125506878,Medium,Running,Very high,Medium,-4039,-6459,5885,19,-68,37,,,
+17.9419605732,Medium,Running,Very high,Medium,,,,,,,0.5271018147,0.9148047566,0.7967100739
+17.9567046165,Medium,Running,Very high,Medium,-1371,-4074,4472,29,-21,10,,,
+18.0015773773,Medium,Running,Very high,High,-1879,-3409,-744,25,32,-3,,,
+18.0060193539,Medium,Running,Very high,High,,,,,,,0.5101665258,0.9778671861,0.7826961875
+18.0466651917,Medium,Running,Very high,High,-3021,-2669,-162,25,15,-29,,,
+18.0712397099,Medium,Running,Very high,High,,,,,,,0.4929336011,1.0041935444,0.7768458724
+18.0963180065,Medium,Running,Very high,High,-2480,-2325,-53,24,15,-59,,,
+18.1366491318,Medium,Running,Very high,High,-1344,-2749,-1080,20,-3,-55,,,
+18.1443829536,Medium,Running,Very high,High,,,,,,,0.4972637296,1.022252202,0.7728328705
+18.1818065643,Medium,Running,Very high,High,-1431,-2918,-2668,14,1,-44,,,
+18.2069504261,Medium,Running,Very high,High,,,,,,,0.4999364614,1.0303686857,0.7710291743
+18.226747036,Medium,Running,Very high,High,-2630,-3554,-1585,6,7,-29,,,
+18.2725868225,Medium,Running,Very high,High,-2354,-3359,22,7,-10,-11,,,
+18.2738130093,Medium,Running,Very high,High,,,,,,,0.5024611354,1.0198718309,0.7733618021
+18.3174915314,Medium,Running,Very high,High,-1795,-2607,-62,4,-4,-13,,,
+18.3412079811,Medium,Running,Very high,High,,,,,,,0.5050614476,1.0055221319,0.7765506506
+18.3626644611,Medium,Running,Very high,High,-1971,-2663,667,-2,-7,0,,,
+18.4070982933,Medium,Running,Very high,High,,,,,,,0.5119723082,0.9947971702,0.7789339423
+18.4077148438,Medium,Running,Very high,High,-1407,-2773,929,-2,-16,17,,,
+18.452041626,Medium,Running,Very high,High,-1223,-1914,837,0,-14,16,,,
+18.4758732319,Medium,Running,Very high,High,,,,,,,0.5229722261,0.9845245481,0.7812167406
+18.4969992638,Medium,Running,Very high,High,-639,-1275,685,-9,-10,26,,,
+18.5426335335,Medium,Inactive,Very high,High,-830,-1005,773,-7,3,28,,,
+18.5454170704,Medium,Inactive,Very high,High,,,,,,,0.5279181004,0.9591712952,0.7868508101
+18.5878722668,Medium,Inactive,Very high,High,-790,-1292,641,-7,7,33,,,
+18.6090245247,Medium,Inactive,Very high,High,,,,,,,0.5173461437,0.9380684495,0.7915403247
+18.6322357655,Medium,Inactive,Very high,High,-677,-1191,562,-7,2,27,,,
+18.6704039574,Medium,Inactive,Very high,High,,,,,,,0.5217113495,0.90617764,0.7986271977
+18.6773080826,Medium,Inactive,Very high,High,-590,-1074,481,-2,6,27,,,
+18.7345576286,Medium,Inactive,Very high,High,-615,-1349,603,-8,4,32,,,
+18.7438373566,Medium,Inactive,Very high,High,,,,,,,0.5245830417,0.8830074668,0.803776145
+18.7673153877,Medium,Inactive,Very high,High,-267,-1567,54,-6,9,30,,,
+18.8069493771,Medium,Inactive,Very high,High,,,,,,,0.5363950729,0.8808088899,0.8042646646
+18.8125936985,Medium,Inactive,Very high,High,-785,-1550,530,-4,12,27,,,
+18.857527256,Medium,Inactive,Very high,High,-79,-1848,971,-3,3,31,,,
+18.8774893284,Medium,Inactive,Very high,High,,,,,,,0.5372801423,0.8770286441,0.8051047325
+18.9025027752,Medium,Inactive,Very high,High,-443,-1173,1283,9,6,18,,,
+18.9468379021,Medium,Inactive,Very high,High,,,,,,,0.5223526359,0.8612414598,0.8086130023
+18.9476616383,Medium,Inactive,Very high,High,137,196,1178,-4,-1,9,,,
+18.9930245876,Medium,Inactive,Very high,High,369,-437,1309,5,14,23,,,
+19.0129210949,Medium,Inactive,Very high,High,,,,,,,0.5167337656,0.854038775,0.8102136254
+19.0380313396,Medium,Inactive,Very high,High,-433,-539,1018,7,2,1,,,
+19.0731315613,Medium,Inactive,Very high,High,,,,,,,0.5229884982,0.8486551642,0.8114099503
+19.0830273628,Medium,Inactive,Very high,High,-639,-209,47,8,9,-4,,,
+19.127887249,Medium,Inactive,Very high,High,-935,215,521,0,8,5,,,
+19.1466567516,Medium,Inactive,Very high,High,,,,,,,0.5268653631,0.8339069486,0.8146873713
+19.1732509136,Medium,Inactive,Very high,High,-723,302,256,-7,7,-3,,,
+19.2161624432,Medium,Inactive,Very high,High,,,,,,,0.5126503706,0.8031898141,0.8215133548
+19.2178533077,Medium,Inactive,Very high,High,-645,12,326,-5,13,-13,,,
+19.2629656792,Medium,Inactive,Very high,High,-539,-671,289,-7,14,-4,,,
+19.283919096,Medium,Inactive,Very high,High,,,,,,,0.5054396987,0.7813094258,0.8263756633
+19.3089513779,Medium,Inactive,Very high,High,-661,-1557,330,1,23,8,,,
+19.3576004505,Medium,Inactive,Very high,High,-1472,-1901,239,-1,14,-15,,,
+19.3730435371,Medium,Inactive,Very high,High,,,,,,,0.5175923109,0.7675331831,0.829437077
+19.3981056213,Medium,Inactive,Very high,High,-832,-1887,953,-4,-6,-7,,,
+19.4433393478,Medium,Inactive,Very high,High,-583,-1448,1678,-3,4,1,,,
+19.4483788013,Medium,Inactive,Very high,High,,,,,,,0.4982427955,0.7485718727,0.8336507082
+19.4886491299,Medium,Inactive,Very high,High,-887,-1473,389,1,7,-13,,,
+19.5315787792,Very high,Inactive,High,High,,,,,,,0.4666220546,0.7322731018,0.837272644
+19.5374231339,Very high,Inactive,High,High,-456,-2174,-938,6,7,7,,,
+19.5825974941,Very high,Inactive,High,High,-1273,-1977,-359,-5,4,6,,,
+19.6217341423,Very high,Inactive,High,High,,,,,,,0.4133051634,0.7126398087,0.8416355848
+19.6233758926,Very high,Inactive,High,High,-331,-1118,1535,-7,10,13,,,
+19.6684086323,Very high,Inactive,High,High,-1174,-1027,1024,20,34,-3,,,
+19.7074537277,Very high,Inactive,High,High,,,,,,,0.3544116914,0.6837434173,0.8480570316
+19.7174797058,Very high,Inactive,High,High,-1970,-1675,-1077,15,14,-1,,,
+19.7586243153,Very high,Inactive,High,High,-925,-1517,-1027,-15,4,17,,,
+19.7788653374,Very high,Inactive,High,High,,,,,,,0.2352373898,0.6518577337,0.8551427126
+19.8035495281,Very high,Inactive,High,High,-1274,-1047,1582,-4,13,27,,,
+19.8438060284,Very high,Inactive,High,High,,,,,,,0.2321799099,0.6475562453,0.8560985923
+19.8486216068,Very high,Inactive,High,High,-1364,321,3276,16,-5,20,,,
+19.8938763142,Very high,Inactive,High,High,-617,1805,6,21,32,19,,,
+19.9088110924,Very high,Inactive,High,High,,,,,,,0.2477833927,0.6115640402,0.86409688
+19.9400737286,Very high,Inactive,High,High,-1876,-960,-3243,18,43,5,,,
+19.9696938992,Very high,Inactive,High,High,,,,,,,0.3957218528,0.5697289705,0.8733935356
+19.9842443466,Very high,Inactive,High,High,-2834,-3127,-8735,2,17,21,,,
+20.0292785168,Very high,Inactive,High,High,686,-1838,-7913,15,110,4,,,
+20.0316839218,Very high,Inactive,High,High,,,,,,,0.4508927763,0.5761226416,0.8719727397
+20.0753924847,Very high,Inactive,High,High,-4281,-5725,2650,-21,130,18,,,
+20.0957231522,Very high,Inactive,High,High,,,,,,,0.4963018298,0.571282804,0.8730482459
+20.1190500259,Very high,Inactive,High,High,-5134,-8792,6951,-61,-49,81,,,
+20.1508233547,Very high,Inactive,High,High,,,,,,,0.6720588207,0.437954545,0.9026767612
+20.1639931202,Very high,Inactive,High,High,-1143,-7035,5756,-70,-42,164,,,
+20.2099575996,Very high,Inactive,High,High,-945,-3206,94,-95,-67,191,,,
+20.217881918,Very high,Inactive,High,High,,,,,,,0,0,0
+20.2547211647,Very high,Inactive,High,High,-143,-385,-4993,-88,23,86,,,
+20.2628092766,Very high,Inactive,High,High,,,,,,,0,0,0
+20.2992033958,Very high,Inactive,High,High,2039,-2897,-819,-23,24,38,,,
+20.3194205761,Very high,Inactive,High,High,,,,,,,0,0,0
+20.3449723721,Very high,Inactive,High,High,4494,-2643,-3218,2,7,77,,,
+20.3855309486,Very high,Inactive,High,High,,,,,,,0,0,0
+20.3897075653,Very high,Inactive,High,High,-1143,383,-289,101,93,-34,,,
+20.4342513084,Very high,Inactive,High,High,-6400,2436,6757,12,12,-126,,,
+20.4545593262,Very high,Inactive,High,High,,,,,,,0,0,0
+20.4799602032,Very high,Inactive,High,High,2134,-6243,6254,-57,-67,-33,,,
+20.5198667049,Very high,Inactive,High,High,,,,,,,0,0,0
+20.5248541832,Very high,Inactive,High,High,4203,-2284,-180,-28,-52,48,,,
+20.5695099831,Very high,Inactive,High,High,5490,-7782,-7399,28,-14,101,,,
+20.588488102,Very high,Inactive,High,High,,,,,,,0,0,0
+20.6151299477,Very high,Inactive,High,High,4041,-3501,-12331,37,-17,117,,,
+20.6522994041,Very high,Inactive,High,High,,,,,,,0,0,0
+20.6595680714,Very high,Inactive,High,High,1979,118,-12804,0,61,167,,,
+20.70479846,Very high,Inactive,High,High,-1575,1687,-11010,-20,112,163,,,
+20.7235696316,Very high,Inactive,High,High,,,,,,,0,0,0
+20.7499303818,Very high,Inactive,High,High,968,-1521,-6609,-60,121,142,,,
+20.7844367027,Very high,Inactive,High,High,,,,,,,0,0,0
+20.794873476,Very high,Inactive,High,High,5346,-10111,1191,-1,47,124,,,
+20.833414793,Very high,Transient,High,High,,,,,,,0,0,0
+20.8409538269,Very high,Transient,High,High,9162,-11553,2817,-96,5,67,,,
+20.8847262859,Very high,Transient,High,High,,,,,,,0,0,0
+20.8854358196,Very high,Transient,High,High,4436,-8871,1732,-46,9,12,,,
+20.9303517342,Very high,Transient,High,High,3181,-4463,1050,-79,4,7,,,
+20.9304151535,Very high,Transient,High,High,,,,,,,0,0,0
+20.9708945751,Very high,Transient,High,High,7011,3080,-2939,0,31,-15,,,
+20.9866611958,Very high,Transient,High,High,,,,,,,0,0,0
+21.0160462856,Very high,Transient,Very high,Very high,10283,1009,-3411,58,13,-58,,,
+21.0501458645,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.0610430241,Very high,Transient,Very high,Very high,4265,-2041,2087,62,-16,-43,,,
+21.118619442,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.1266753674,Very high,Transient,Very high,Very high,1690,-4317,1979,32,-10,-87,,,
+21.1723563671,Very high,Transient,Very high,Very high,3926,-4156,-1092,-1,22,-112,,,
+21.1848311424,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.2134482861,Very high,Transient,Very high,Very high,4497,-7054,-344,61,-64,-57,,,
+21.2566330433,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.2586913109,Very high,Transient,Very high,Very high,4171,-3001,-2519,22,-85,38,,,
+21.3152318001,Very high,Transient,Very high,Very high,3470,672,-6930,-10,-33,42,,,
+21.3182291985,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.3520197868,Very high,Transient,Very high,Very high,5883,5995,-4614,-38,-13,175,,,
+21.3874368668,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.3933222294,Very high,Transient,Very high,Very high,7757,8047,-420,-26,89,74,,,
+21.4382596016,Very high,Transient,Very high,Very high,9587,982,5197,-43,-27,112,,,
+21.4507260323,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.4829134941,Very high,Transient,Very high,Very high,3251,4678,2141,-32,-9,205,,,
+21.5209026337,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.5322253704,Very high,Transient,Very high,Very high,930,-1513,1126,-50,-37,101,,,
+21.5738282204,Very high,Transient,Very high,Very high,754,-2966,2922,-90,-114,77,,,
+21.5837175846,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.6225752831,Very high,Transient,Very high,Very high,1901,-2484,-4670,-96,-103,-2,,,
+21.6534893513,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.6630539894,Very high,Transient,Very high,Very high,2710,542,-11213,-62,-73,74,,,
+21.7087779045,Very high,Transient,Very high,Very high,2478,6174,-10751,-3,-5,117,,,
+21.718159914,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.7533438206,Very high,Transient,Very high,Very high,-159,6979,1913,92,19,38,,,
+21.7886209488,Very high,Transient,Very high,Very high,,,,,,,0,0,0
+21.8024442196,Very high,Transient,Very high,Very high,-671,4184,2218,16,-3,106,,,
+21.845692873,Very high,Running,Very high,Very high,153,3630,-1375,22,47,53,,,
+21.850001812,Very high,Running,Very high,Very high,,,,,,,0,0,0
+21.8924417496,Very high,Running,Very high,Very high,3378,3121,2385,18,26,56,,,
+21.9198486805,Very high,Running,Very high,Very high,,,,,,,0,0,0
+21.9340457916,Very high,Running,Very high,Very high,3640,1799,3214,41,-14,74,,,
+21.9788761139,Very high,Running,Very high,Very high,1879,519,-1705,18,7,104,,,
+21.9843637943,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.0240149498,Very high,Running,Very high,Very high,2747,1575,-4525,0,44,87,,,
+22.0283102989,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.0685217381,Very high,Running,Very high,Very high,872,4215,-4003,-33,-2,130,,,
+22.0844068527,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.1136155128,Very high,Running,Very high,Very high,1732,4264,-1702,15,30,59,,,
+22.1291985512,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.1587181091,Very high,Running,Very high,Very high,3428,4114,2777,35,15,71,,,
+22.1871631145,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.2039451599,Very high,Running,Very high,Very high,2904,3065,-173,1,22,53,,,
+22.2490723133,Very high,Running,Very high,Very high,3099,4107,-391,16,37,32,,,
+22.2498486042,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.2938473225,Very high,Running,Very high,Very high,4745,4607,1557,7,-18,16,,,
+22.3187096119,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.3394606113,Very high,Running,Very high,Very high,3854,3807,574,6,-2,-2,,,
+22.384393692,Very high,Running,Very high,Very high,3534,3974,-704,-4,-7,-3,,,
+22.3846824169,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.4287288189,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.4419887066,Very high,Running,Very high,Very high,2682,4188,-1567,-7,-22,7,,,
+22.4748725891,Very high,Running,Very high,Very high,2080,3982,-1495,0,-17,1,,,
+22.4834985733,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.5292675495,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.5354804993,Very high,Running,Very high,Very high,2008,3416,6,9,9,7,,,
+22.5778853893,Very high,Running,Very high,Very high,1000,3700,670,7,26,58,,,
+22.5868561268,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.6221385002,Very high,Running,Very high,Very high,2581,3889,59,0,11,19,,,
+22.6331677437,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.6672706604,Very high,Running,Very high,Very high,2800,3723,450,-1,-8,24,,,
+22.6900744438,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.7126157284,Very high,Running,Very high,Very high,1811,4007,-284,-7,-16,31,,,
+22.750549078,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.7569103241,Very high,Running,Very high,Very high,368,4216,-500,-1,-7,37,,,
+22.79575634,Very high,Running,Very high,Very high,,,,,,,0,0,0
+22.801715374,Very high,Running,Very high,Very high,-1062,4305,-993,12,19,52,,,
+22.8469269276,Very high,Inactive,Very high,Very high,-162,3092,-47,19,31,22,,,
+22.8513929844,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+22.8918590546,Very high,Inactive,Very high,Very high,835,2312,1083,26,7,14,,,
+22.9201619625,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+22.9369077682,Very high,Inactive,Very high,Very high,989,1324,-285,17,20,26,,,
+22.98234272,Very high,Inactive,Very high,Very high,1759,1940,-374,8,40,34,,,
+22.9863376617,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.0275542736,Very high,Inactive,Very high,Very high,1568,2361,1999,13,1,31,,,
+23.0519430637,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.0771622658,Very high,Inactive,Very high,Very high,487,3028,-590,15,14,55,,,
+23.0982210636,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.1175673008,Very high,Inactive,Very high,Very high,-275,2796,-2015,11,43,72,,,
+23.1502883434,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.1662342548,Very high,Inactive,Very high,Very high,1459,2012,-1078,3,51,65,,,
+23.2082002163,Very high,Inactive,Very high,Very high,2347,2985,-267,-11,45,44,,,
+23.2186980247,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.2528636456,Very high,Inactive,Very high,Very high,-606,4771,338,-18,64,71,,,
+23.2841124535,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.297337532,Very high,Inactive,Very high,Very high,-1002,5180,1991,-5,60,16,,,
+23.3303999901,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.3436806202,Very high,Inactive,Very high,Very high,2424,6704,5307,2,80,-4,,,
+23.3876628876,Very high,Inactive,Very high,Very high,3727,8504,5564,-5,13,-15,,,
+23.3924071789,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.4325919151,Very high,Inactive,Very high,Very high,88,4643,1820,-32,-20,43,,,
+23.4493017197,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.488380909,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.4982712269,Very high,Inactive,Very high,Very high,-2637,-849,-4229,-46,-45,101,,,
+23.5398259163,Very high,Inactive,Very high,Very high,-3164,-3976,-9659,0,42,-4,,,
+23.5514602661,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.5840966702,Very high,Inactive,Very high,Very high,103,3298,-2232,-2,128,-19,,,
+23.6199276447,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.6291644573,Very high,Inactive,Very high,Very high,-4865,7541,5968,-44,1,46,,,
+23.6748843193,Very high,Inactive,Very high,Very high,-10826,4200,6057,-147,-9,300,,,
+23.6858716011,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.7194635868,Very high,Inactive,Very high,Very high,-8656,-3044,2901,8,-67,181,,,
+23.7493782043,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.7644252777,Very high,Inactive,Very high,Very high,5599,3578,-2813,7,-1,143,,,
+23.7973020077,Very high,Inactive,Very high,Very high,,,,,,,0,0,0
+23.8102276325,Very high,Running,Very high,Very high,4119,1246,-3755,-20,3,72,,,
+23.8547410965,Very high,Running,Very high,Very high,410,1822,-8588,8,36,-51,,,
+23.8576107025,Very high,Running,Very high,Very high,,,,,,,0,0,0
+23.8995277882,Very high,Running,Very high,Very high,1903,1330,-4332,20,16,-20,,,
+23.9190673828,Very high,Running,Very high,Very high,,,,,,,0,0,0
+23.9451329708,Very high,Running,Very high,Very high,3972,2130,3580,-2,75,-126,,,
+23.9863717556,Very high,Running,Very high,Very high,,,,,,,0,0,0
+23.9902791977,Very high,Running,Very high,Very high,1960,2903,6920,12,-29,-180,,,
+24.0345480442,Low,Running,Very high,Very high,-711,970,6485,30,-94,-85,,,
+24.0495786667,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.0798604488,Low,Running,Very high,Very high,-1198,-327,2004,13,-164,-39,,,
+24.0925266743,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.1253643036,Low,Running,Very high,Very high,-1956,-527,-6055,-20,-114,32,,,
+24.1541845798,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.1699535847,Low,Running,Very high,Very high,-3523,-1077,-11498,-44,-37,104,,,
+24.2150802612,Low,Running,Very high,Very high,-1375,-5883,-8872,-61,36,32,,,
+24.2175514698,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.2599747181,Low,Running,Very high,Very high,-8725,-5035,1169,23,243,-155,,,
+24.2639608383,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.3050973415,Low,Running,Very high,Very high,-5916,3542,7587,0,-82,48,,,
+24.3236982822,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.3502876759,Low,Running,Very high,Very high,1173,-896,535,-23,-83,70,,,
+24.3845524788,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.3950867653,Low,Running,Very high,Very high,1569,-501,-1215,-18,3,-31,,,
+24.4412333965,Low,Running,Very high,Very high,1263,1975,4617,-69,-78,-32,,,
+24.4552543163,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.4853494167,Low,Running,Very high,Very high,-91,1124,-1505,-50,-103,-90,,,
+24.5197019577,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.5303673744,Low,Running,Very high,Very high,-666,-3834,-8949,-18,-78,-49,,,
+24.577505827,Low,Running,Very high,Very high,-147,-10964,-5690,41,158,-139,,,
+24.5875153542,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.6206755638,Low,Running,Very high,Very high,-239,-4213,5289,25,37,-148,,,
+24.6521041393,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.6656351089,Low,Running,Very high,Very high,-1784,-2947,2155,16,-20,-111,,,
+24.7120161057,Low,Running,Very high,Very high,44,-751,1837,32,16,-165,,,
+24.7210338116,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.7556200027,Low,Running,Very high,Very high,2193,-710,956,-2,-41,-76,,,
+24.784484148,Low,Running,Very high,Very high,,,,,,,0,0,0
+24.8006808758,Low,Running,Very high,Very high,833,-208,-2880,-12,-80,-38,,,
+24.8466966152,Low,Running,Very high,Very high,49,2012,-6663,-10,-51,-39,,,
+24.8593096733,Low,Running,Very high,Very high,,,,,,,0.2640901804,0.8399642706,0.81334126
+24.8868775368,Low,Running,Very high,Very high,-585,786,-7272,-33,7,-48,,,
+24.9316022396,Low,Running,Very high,Very high,-5905,-4788,442,-33,177,-78,,,
+24.9337587357,Low,Running,Very high,Very high,,,,,,,0.6258404255,0.7230554819,0.8393210173
+24.976903677,Low,Running,Very high,Very high,-32,-873,6351,6,-45,-83,,,
+25.0053982735,Low,Running,Very high,Very high,,,,,,,0.5754727125,0.8014028072,0.8219105005
+25.0222711563,Low,Running,Very high,Very high,-1841,-1770,1442,-11,-12,-75,,,
+25.0672426224,Low,Running,Very high,Very high,432,-1635,1079,-3,30,-98,,,
+25.0819313526,Low,Running,Very high,Very high,,,,,,,0.6090291142,0.9185156822,0.7958853841
+25.112105608,Low,Running,Very high,Very high,2157,-1946,39,-10,-25,-95,,,
+25.1419017315,Low,Running,Very high,Very high,,,,,,,0.6294078231,1.0024856329,0.7772254348
+25.1571567059,Low,Running,Very high,Very high,1756,-1004,-4239,-24,-51,-75,,,
+25.2020721436,Low,Running,Very high,Very high,1510,814,-7970,-26,-14,-94,,,
+25.2080440521,Low,Running,Very high,Very high,,,,,,,0.5732634068,1.0473754406,0.7672498822
+25.255515337,Low,Running,Very high,Very high,1673,1003,-7134,-5,-7,-112,,,
+25.2774350643,Low,Running,Very high,Very high,,,,,,,0.4613117874,1.0432158709,0.7681742311
+25.292257309,Low,Running,Very high,Very high,473,-466,-3553,-21,30,-126,,,
+25.3371460438,Low,Running,Very high,Very high,838,-2232,4924,-3,-13,-62,,,
+25.3408133984,Low,Running,Very high,Very high,,,,,,,0.4812589288,1.0672808886,0.7628264427
+25.3865251541,Low,Running,Very high,Very high,-589,-1092,4103,-6,-62,-76,,,
+25.4092173576,Low,Running,Very high,Very high,,,,,,,0.5009064078,1.0445355177,0.7678809762
+25.4273040295,Low,Running,Very high,Very high,-856,-628,781,-6,-17,-82,,,
+25.472921133,Low,Running,Very high,Very high,708,-2004,581,-5,-7,-63,,,
+25.4756190777,Low,Running,Very high,Very high,,,,,,,0.4358689785,1.0226585865,0.7727425098
+25.5175814629,Medium,Running,Very high,Very high,1659,-2418,-524,-9,-28,-47,,,
+25.5435855389,Medium,Running,Very high,Very high,,,,,,,0.4203081429,1.0244392157,0.7723468542
+25.5624909401,Medium,Running,Very high,Very high,1988,-1694,-1800,-8,-26,-38,,,
+25.6075115204,Medium,Running,Very high,Very high,,,,,,,0.4269657731,1.0758348703,0.760925591
+25.6119019985,Medium,Running,Very high,Very high,1693,-1509,-798,-14,-27,-4,,,
+25.6566309929,Medium,Running,Very high,Very high,824,-2242,645,-29,-45,17,,,
+25.6750905514,Medium,Running,Very high,Very high,,,,,,,0.4940447509,1.122558713,0.7505425215
+25.6974902153,Medium,Running,Very high,Very high,-24,-2476,1331,-31,-20,16,,,
+25.7414016724,Medium,Running,Very high,Very high,,,,,,,0.5090758801,1.1607036591,0.7420658469
+25.7469983101,Medium,Running,Very high,Very high,510,-2101,2086,-17,5,1,,,
+25.7878594398,Medium,Running,Very high,Very high,1286,-1773,1534,-6,19,-17,,,
+25.8066015244,Medium,Running,Very high,Very high,,,,,,,0.5373290777,1.1863231659,0.7363725901
+25.8326997757,Medium,Running,Very high,Very high,2020,-1875,439,1,17,-23,,,
+25.8691623211,Medium,Running,Very high,Very high,,,,,,,0.5670087934,1.2359389067,0.7253469229
+25.8780956268,Medium,Running,Very high,Very high,1469,-2335,-250,-9,13,-31,,,
+25.923738718,Medium,Transient,Very high,Very high,663,-1503,-29,-11,19,-21,,,
+25.9313218594,Medium,Transient,Very high,Very high,,,,,,,0.5594911575,1.250530839,0.7221042514
+25.9678640366,Medium,Transient,Very high,Very high,735,-1502,373,-12,27,-16,,,
+26.0038177967,Medium,Transient,Very high,Very high,,,,,,,0.5465534925,1.318813324,0.7069303989
+26.0211455822,Medium,Transient,Very high,Very high,1602,-1358,1423,-6,11,-18,,,
+26.062486887,Medium,Transient,Very high,Very high,1806,-1194,1168,0,4,-22,,,
+26.0738832951,Medium,Transient,Very high,Very high,,,,,,,0.5576151609,1.3468296528,0.700704515
+26.1030304432,Medium,Transient,Very high,Very high,1272,-607,716,-4,4,-1,,,
+26.1410605907,Medium,Transient,Very high,Very high,,,,,,,0.5728448629,1.3817554712,0.6929432154
+26.1482219696,Medium,Transient,Very high,Very high,1439,-798,854,-2,9,0,,,
+26.1932675838,Medium,Transient,Very high,Very high,1550,-845,713,3,-1,1,,,
+26.2041232586,Medium,Transient,Very high,Very high,,,,,,,0.5735129118,1.3936573267,0.6902983785
+26.2426314354,Medium,Transient,Very high,Very high,1033,-951,349,5,7,6,,,
+26.2727406025,Medium,Transient,Very high,Very high,,,,,,,0.5593294501,1.3973001242,0.6894888878
+26.2834289074,Medium,Transient,Very high,Very high,1205,-1070,551,4,8,11,,,
+26.328353405,Medium,Transient,Very high,Very high,1452,-986,718,3,8,10,,,
+26.3419847488,Medium,Transient,Very high,Very high,,,,,,,0.5628930926,1.40262115,0.6883064508
+26.3741836548,Medium,Transient,Very high,Very high,1499,-1111,774,8,11,15,,,
+26.4053955078,Medium,Transient,Very high,Very high,,,,,,,0.5548325181,1.4219003916,0.6840221286
+26.418595314,Medium,Transient,Very high,Very high,1454,-1166,520,7,11,12,,,
+26.464086771,Medium,Transient,Very high,Very high,1292,-1082,267,8,10,9,,,
+26.4756159782,Medium,Transient,Very high,Very high,,,,,,,0.5615013838,1.4372659922,0.6806075573
+26.5101323128,Medium,Transient,Very high,Very high,1094,-777,134,8,19,14,,,
+26.529702425,Medium,Transient,Very high,Very high,,,,,,,0.5728125572,1.4701114893,0.6733085513
+26.5578081608,Medium,Transient,Very high,Very high,1122,-1009,399,11,28,7,,,
+26.5990839005,Medium,Transient,Very high,Very high,1108,-1338,633,9,17,2,,,
+26.6062855721,Medium,Transient,Very high,Very high,,,,,,,0.559245348,1.524387002,0.6612473726
+26.6478700638,Medium,Transient,Very high,Very high,1458,-1148,534,3,7,6,,,
+26.672700882,Medium,Transient,Very high,Very high,,,,,,,0.5536534786,1.5407435894,0.6576125622
+26.6893732548,Medium,Transient,Very high,Very high,1434,-862,530,3,12,10,,,
+26.7341153622,Medium,Transient,Very high,Very high,1545,-948,972,3,6,7,,,
+26.7425634861,Medium,Transient,Very high,Very high,,,,,,,0.5533314347,1.5801506042,0.6488554478
+26.7787847519,Medium,Transient,Very high,Very high,1427,-1290,594,2,1,-9,,,
+26.8030648232,Medium,Transient,Very high,Very high,,,,,,,0.5519484878,1.6419036388,0.6351325512
+26.8245532513,Medium,Transient,Very high,Very high,1046,-1035,473,-4,-3,-9,,,
+26.861913681,Medium,Transient,Very high,Very high,,,,,,,0.5479454398,1.6795017719,0.6267774105
+26.8692166805,Medium,Transient,Very high,Very high,916,-808,349,-1,7,-10,,,
+26.9146659374,Medium,Transient,Very high,Very high,1183,-819,-46,1,20,-16,,,
+26.9300875664,Medium,Transient,Very high,Very high,,,,,,,0.5430463552,1.7219800949,0.6173377633
+26.960154295,Medium,Transient,Very high,Very high,1555,-963,515,0,13,-18,,,
+26.9972388744,Medium,Transient,Very high,Very high,,,,,,,0.5510607958,1.7637008429,0.6080664396
+27.0041167736,Medium,Transient,Very high,Very high,1452,-1294,506,-4,6,-2,,,
+27.0494337082,Medium,Transient,Very high,Very high,870,-1615,307,-7,7,-11,,,
+27.0541305542,Medium,Transient,Very high,Very high,,,,,,,0.5430388451,1.7709058523,0.6064653397
+27.0942025185,Medium,Transient,Very high,Very high,843,-1403,202,-7,14,-15,,,
+27.1259660721,Medium,Transient,Very high,Very high,,,,,,,0.5464476347,1.7782568932,0.6048318148
+27.1402406693,Medium,Transient,Very high,Very high,1299,-1018,445,-7,9,9,,,
+27.1849350929,Medium,Transient,Very high,Very high,1502,-1547,914,-11,-7,11,,,
+27.1871340275,Medium,Transient,Very high,Very high,,,,,,,0.5447788835,1.7591592073,0.6090757251
+27.2295520306,Medium,Transient,Very high,Very high,883,-1622,1038,-8,-8,19,,,
+27.2571730614,Medium,Transient,Very high,Very high,,,,,,,0.5510026813,1.7517848015,0.6107144952
+27.2754392624,Medium,Transient,Very high,Very high,733,-1692,720,-15,-9,26,,,
+27.3206031322,Medium,Transient,Very high,Very high,1026,-1337,275,-13,-7,25,,,
+27.326561451,Medium,Transient,Very high,Very high,,,,,,,0.544283092,1.732150197,0.615077734
+27.3646900654,Medium,Transient,Very high,Very high,582,-1360,402,-13,-13,17,,,
+27.3889529705,Medium,Transient,Very high,Very high,,,,,,,0.5469943881,1.7093656063,0.6201409698
+27.4220643044,Medium,Transient,Very high,Very high,-89,-1307,147,-16,-5,28,,,
+27.4612326622,Medium,Transient,Very high,Very high,,,,,,,0.5249844193,1.7071911097,0.6206241846
+27.4669384956,Medium,Transient,Very high,Very high,-83,-998,47,-21,-1,29,,,
+27.5121450424,Medium,Transient,Very high,Very high,99,-414,228,-22,1,39,,,
+27.5310330391,Medium,Transient,Very high,Very high,,,,,,,0.5078220367,1.6952277422,0.6232827306
+27.5652296543,Medium,Transient,Very high,Very high,175,-705,699,-28,-1,48,,,
+27.6054093838,Medium,Transient,Very high,Very high,,,,,,,0.4293713272,1.7008254528,0.6220387816
+27.6088635921,Medium,Transient,Very high,Very high,417,184,1214,-35,11,59,,,
+27.6473357677,Medium,Transient,Very high,Very high,2527,1611,2302,-20,15,32,,,
+27.6738138199,Medium,Transient,Very high,Very high,,,,,,,0.4240651727,1.7034753561,0.6214499474
+27.6923549175,Medium,Transient,Very high,Very high,3295,3257,1448,10,20,52,,,
+27.7323741913,Medium,Transient,Very high,Very high,,,,,,,0.4265243113,1.6992665529,0.6223852038
+27.7420186996,Medium,Transient,Very high,Very high,4071,1750,749,8,8,27,,,
+27.7827284336,Medium,Transient,Very high,Very high,2725,916,461,-6,-11,58,,,
+27.7977483273,Medium,Transient,Very high,Very high,,,,,,,0.4005927742,1.6858173609,0.6253739595
+27.8274409771,Medium,Transient,Very high,Very high,2377,1250,495,-6,-19,61,,,
+27.8535444736,Medium,Transient,Very high,Very high,,,,,,,0.3895100057,1.6793516874,0.6268107295
+27.8773095608,Medium,Transient,Very high,Very high,1946,772,-152,-3,-21,44,,,
+27.9260556698,Medium,Transient,Very high,Very high,2002,368,-483,-2,-14,40,,,
+27.9275753498,Medium,Transient,Very high,Very high,,,,,,,0.3675614297,1.6563028097,0.6319327354
+27.9626040459,Medium,Transient,Very high,Very high,2644,958,455,-1,-8,29,,,
+27.9974901676,Medium,Transient,Very high,Very high,,,,,,,0.426104337,1.637253046,0.6361659765
+28.0082910061,Medium,Transient,Very high,Very high,2737,1359,1999,0,-5,23,,,
+28.0530171394,Medium,Transient,Very high,Very high,2090,1661,1109,-14,-26,40,,,
+28.0658307076,Medium,Transient,Very high,Very high,,,,,,,0.3550447822,1.6350755692,0.636649847
+28.101962328,Medium,Transient,Very high,Very high,1950,2336,-601,-22,-12,37,,,
+28.1275651455,Medium,Transient,Very high,Very high,,,,,,,0.364690721,1.63156569,0.6374298334
+28.1435248852,Medium,Transient,Very high,Very high,1298,2548,-652,-36,-10,40,,,
+28.1899452209,Medium,Transient,Very high,Very high,,,,,,,0.3608443439,1.6285502911,0.6380999088
+28.1922943592,Medium,Transient,Very high,Very high,-1253,3749,-1714,-27,-4,66,,,
+28.2329306602,Medium,Transient,Very high,Very high,-342,5938,-854,15,32,51,,,
+28.2553343773,Medium,Transient,Very high,Very high,,,,,,,0.353420198,1.6371923685,0.6361794472
+28.2943239212,Medium,Transient,Very high,Very high,-154,4633,2080,7,-7,52,,,
+28.3228931427,Medium,Transient,Very high,Very high,,,,,,,0.3934960365,1.6387226582,0.6358394027
+28.3402018547,Medium,Transient,Very high,Very high,-859,3408,939,21,16,76,,,
+28.3850295544,Medium,Transient,Very high,Very high,-127,3196,-252,23,26,83,,,
+28.3883669376,Medium,Transient,Very high,Very high,,,,,,,0.4077998996,1.6697474718,0.628944993
+28.433652401,Medium,Transient,Very high,Very high,350,2762,-1430,23,19,90,,,
+28.4541592598,Medium,Transient,Very high,Very high,,,,,,,0.424680531,1.7009392977,0.6220134497
+28.4757974148,Medium,Transient,Very high,Very high,333,2899,-2105,24,25,105,,,

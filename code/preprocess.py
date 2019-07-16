@@ -1,3 +1,29 @@
+'''
+Script to convert the data (all data together) (which is output
+from data_prep notebook) into direct usable form for training
+
+It sequentially collects readings that have the same label.
+Once, different label is encountered, it separates the previous
+readings list into parts depending on the reqd_len (required
+length of each example). Then, if too much padding is required,
+then excess readings are discarded to make the length of the
+readings a multiple of reqd_len. The padding is calculated as
+the mean of all those readings which have been collected.
+Then, padding is added to the readings (which makes length of
+readings a multiple of reqd_len) and in case padding is not
+required, it is automatically not added as the respective parameter
+is 0 (zero). Then, those padded readings are written to a new
+csv file. And the process continues.
+
+Future improvement : Need to rewrite the csv writing part so
+that padding is added uniformly in between (or something, need
+to think about this), and not just at the start and end (since
+there may be very long continuous readings with same label,
+they will get lots of padding at the beginning and end, which
+is not exactly what we want). TODO : MEDIUM-PRIORITY (Needs to
+be done once re-annotation is completed) 
+'''
+
 import os
 import sys
 import csv
