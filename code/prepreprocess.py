@@ -17,8 +17,8 @@ import numpy as np
 import csv
 import sys
 
-path = '/home/akshay/Desktop/acc-experiments/data/annotated_csv/_2016-11-26-16-49-44_exp1d_Player.csv'
-out_path = '/home/akshay/Projects/acc_expts/data/new_annotated_data/_2016-11-26-16-49-44_exp1d_Player.csv'
+path = '/home/akshay/Desktop/acc-experiments/data/annotated_csv/_2016-11-26-18-36-15_expb_Player.csv'
+out_path = '/home/akshay/Projects/acc_expts/data/new_annotated_data/_2016-11-26-18-36-15_expb_Player.csv'
 
 existence = os.path.isfile(out_path)
 
