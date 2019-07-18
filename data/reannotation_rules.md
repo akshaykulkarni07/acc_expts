@@ -2,7 +2,8 @@
 
 The data collected by previous Ph.D. student Ewerton Lopes Oliviera has some
 issues. The data has 50% overlap and then having different labels for
-consecutive examples becomes questionable.
+consecutive examples becomes questionable. The possible mistake here being 
+that labelling was done after segmentation (and not the other way round).
 
 Thus we need to re-annotate the data following this : first annotate
 the entire data in a continuous manner and then break into segments (all readings

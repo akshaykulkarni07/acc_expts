@@ -5,7 +5,9 @@ from data_prep notebook) into direct usable form for training
 It sequentially collects readings that have the same label.
 Once, different label is encountered, it separates the previous
 readings list into parts depending on the reqd_len (required
-length of each example). Then, if too much padding is required,
+length of each example). Then, if too much padding is required or
+number of segments is more than 5 (since that would put most of the
+padding in the first and last segments (which is not good)),
 then excess readings are discarded to make the length of the
 readings a multiple of reqd_len. The padding is calculated as
 the mean of all those readings which have been collected.
@@ -15,13 +17,6 @@ required, it is automatically not added as the respective parameter
 is 0 (zero). Then, those padded readings are written to a new
 csv file. And the process continues.
 
-Future improvement : Need to rewrite the csv writing part so
-that padding is added uniformly in between (or something, need
-to think about this), and not just at the start and end (since
-there may be very long continuous readings with same label,
-they will get lots of padding at the beginning and end, which
-is not exactly what we want). TODO : MEDIUM-PRIORITY (Needs to
-be done once re-annotation is completed) 
 '''
 
 import os
@@ -70,7 +65,10 @@ with open(path) as f :
             k = 0
             pad_length = (reqd_len * (num_data + 1) - length) // 2
             # if too much padding is required, discard the excess readings
-            if pad_length > 5 * (num_data + 1) :
+            # or if more than 5 consecutive segments are there, then discard
+            # excess readings, since the 1st and last will have most of the
+            # padding (due to the way code is written in this script)
+            if pad_length > 5 * (num_data + 1) or num_data > 4:
                 readings = readings[ : num_data * reqd_len]
                 pad_length = 0
             else :
