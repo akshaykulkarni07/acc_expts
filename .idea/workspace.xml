@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be49ce86-6f13-4531-80cc-042bc59f5d1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notebooks/archive/.ipynb_checkpoints/conv_autoencoder-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/archive/.ipynb_checkpoints/conv_autoencoder-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/archive/conv_autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/archive/conv_autoencoder.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved_models/autoencoder6.pt" beforeDir="false" afterPath="$PROJECT_DIR$/saved_models/autoencoder6.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/class_balancing-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/class_balancing-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_prep-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/data_prep-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/new_training_nn-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/.ipynb_checkpoints/new_training_nn-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/class_balancing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/class_balancing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/data_prep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/data_prep.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/new_training_nn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/new_training_nn.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notebooks/archive/conv_autoencoder.ipynb">
+        <entry file="file://$PROJECT_DIR$/notebooks/new_training_nn.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
@@ -26,15 +31,16 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="292" />
-    <option name="y" value="24" />
-    <option name="width" value="1400" />
-    <option name="height" value="1028" />
+    <option name="y" value="-4" />
+    <option name="width" value="1398" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -47,17 +53,10 @@
               <item name="acc_expts" type="462c0819:PsiDirectoryNode" />
               <item name="notebooks" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="acc_expts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acc_expts" type="462c0819:PsiDirectoryNode" />
-              <item name="notebooks" type="462c0819:PsiDirectoryNode" />
-              <item name="archive" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,36 +88,50 @@
       <option name="presentableId" value="Default" />
       <updated>1562163566666</updated>
       <workItem from="1562163573023" duration="248000" />
+      <workItem from="1563800019253" duration="96000" />
+      <workItem from="1563800235959" duration="302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248000" />
+    <option name="totallyTimeSpent" value="646000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25538972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Jupyter" visible="true" weight="0.32925585" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32925585" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925585" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32925585" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +139,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebooks/archive/conv_autoencoder.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notebooks/new_training_nn.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
